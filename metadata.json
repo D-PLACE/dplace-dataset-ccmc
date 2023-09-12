@@ -1,8 +1,8 @@
 {
     "id": "ccmc",
     "title": "Cross-cultural music corpus: The Expanded Natural History of Song Discography",
-    "description": null,
+    "description": "The Expanded Natural History of Song Discography contains more than 1000 audio recordings of vocal music gathered from many human societies, each annotated with a world region, language, and behavioural context.",
     "license": "CC-BY-4.0",
-    "url": "https://doi.org/10.5281/zenodo.8237500",
+    "url": "https://doi.org/10.5281/zenodo.8223168",
     "citation": "Mila Bertolo, Martynas Snarskis, Manvir Singh, & Samuel Mehr. (2023, August 8). Cross-cultural music corpus: The Expanded Natural History of Song Discography. Zenodo. https://doi.org/10.5281/zenodo.8237500"
 }
