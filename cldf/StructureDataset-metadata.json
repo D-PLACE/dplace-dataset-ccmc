@@ -5,19 +5,24 @@
             "@language": "en"
         }
     ],
+    "dc:bibliographicCitation": "Mila Bertolo, Martynas Snarskis, Manvir Singh, & Samuel Mehr. (2023, August 8). Cross-cultural music corpus: The Expanded Natural History of Song Discography. Zenodo. https://doi.org/10.5281/zenodo.8237500",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
+    "dc:description": "The Expanded Natural History of Song Discography contains more than 1000 audio recordings of vocal music gathered from many human societies, each annotated with a world region, language, and behavioural context.",
+    "dc:identifier": "https://doi.org/10.5281/zenodo.8223168",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
+    "dc:title": "CLDF dataset derived from 'Cross-cultural music corpus: The Expanded Natural History of Song Discography'",
     "dcat:accessURL": "https://github.com/D-PLACE/dplace-dataset-ccmc",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-ccmc",
             "rdf:type": "prov:Entity",
-            "dc:created": "62bb637",
+            "dc:created": "cd90206",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.8-34-g278250c270",
+            "dc:created": "v4.8",
             "dc:title": "Glottolog"
         }
     ],
@@ -94,12 +99,8 @@
                         "name": "Source"
                     },
                     {
-                        "propertyUrl": "#mediaReference",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaReference",
                         "name": "Song_ID"
-                    },
-                    {
-                        "propertyUrl": "#codeReference",
-                        "name": "Type_ID"
                     }
                 ],
                 "foreignKeys": [
@@ -131,6 +132,17 @@
                         ],
                         "reference": {
                             "resource": "codes.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Song_ID"
+                        ],
+                        "reference": {
+                            "resource": "media.csv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -209,7 +221,7 @@
                         "name": "ISO639P3code"
                     },
                     {
-                        "datatype": "string",
+                        "dc:description": "indicates an approximate geographical location where the song was recorded, using Human Relations Area Files categories (see https://ehrafworldcultures.yale.edu)",
                         "name": "region"
                     }
                 ],
@@ -260,6 +272,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
+            "dc:description": "The codes for the single parameter 'song' are the 10 categories, describing song type.",
             "dc:extent": 10,
             "tableSchema": {
                 "columns": [
@@ -314,6 +327,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
+            "dc:description": "10-second excerpts of the source audio, selected at random from only portions of the recording that contain an audible singer.",
             "dc:extent": 1007,
             "tableSchema": {
                 "columns": [

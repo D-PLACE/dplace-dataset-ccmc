@@ -1,0 +1,37 @@
+{
+    "title": "CLDF dataset derived from 'Cross-cultural music corpus: The Expanded Natural History of Song Discography'",
+    "access_right": "open",
+    "keywords": [
+        "cldf:StructureDataset",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Mila Bertolo, Martynas Snarskis, Manvir Singh, &amp; Samuel Mehr. (2023, August 8). Cross-cultural music corpus: The Expanded Natural History of Song Discography. Zenodo. https://doi.org/10.5281/zenodo.8237500</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    },
+    "creators": [
+        {
+            "name": "Mila Bertolo"
+        },
+        {
+            "name": "Martynas Snarskis"
+        },
+        {
+            "name": "Manvir Singh"
+        },
+        {
+            "name": "Samuel Mehr"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Martynas Snarskis",
+            "type": "DataCurator"
+        },
+        {
+            "name": "Robert Forkel",
+            "type": "DataCurator"
+        }
+    ]
+}

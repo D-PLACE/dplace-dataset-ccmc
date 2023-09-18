@@ -1,2 +1,2 @@
 ID,Name,Description,ColumnSpec
-song,NHS2 song,,
+song,NHS2 song,"A Value for this parameter represents a song in the NHS discography, coded for type using one of 10 categories.",
