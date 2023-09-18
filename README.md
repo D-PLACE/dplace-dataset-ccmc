@@ -23,7 +23,7 @@ Available online at https://doi.org/10.5281/zenodo.8223168
 
 ### Data model
 
-See [cldf/README.md](/D-PLACE/dplace-dataset-ccmc/blob/main/cldf/README.md) for a description of the tables and columns and the
+See [cldf/README.md](cldf) for a description of the tables and columns and the
 entity-relationship diagram below for how they relate.
 
 ![](erd.svg)
