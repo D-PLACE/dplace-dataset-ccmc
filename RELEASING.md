@@ -10,7 +10,7 @@ pytest
 ```
 
 ```shell
-cldfbench cldfviz.map cldf --parameters song --pacific-centered --format png --width 20 --output map.png --with-ocean
+cldfbench cldfviz.map cldf --parameters CCMC1 --pacific-centered --format png --width 20 --output map.png --with-ocean
 ```
 
 ```shell

@@ -1,4 +1,4 @@
-# CLDF dataset derived from 'Cross-cultural music corpus: The Expanded Natural History of Song Discography'
+# D-PLACE dataset derived from Bertolo et al. 2023 'Cross-cultural music corpus: The Expanded Natural History of Song Discography'
 
 ## How to cite
 
@@ -17,6 +17,10 @@ This dataset is licensed under a CC-BY-4.0 license
 Available online at https://doi.org/10.5281/zenodo.8223168
 
 
+
+
+![](map.png)
+
 ### Coverage
 
 ![](map.png)
@@ -27,6 +31,8 @@ See [cldf/README.md](cldf) for a description of the tables and columns and the
 entity-relationship diagram below for how they relate.
 
 ![](erd.svg)
+
+
 
 ## CLDF Datasets
 

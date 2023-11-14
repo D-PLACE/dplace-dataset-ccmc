@@ -1,5 +1,5 @@
 {
-    "title": "CLDF dataset derived from 'Cross-cultural music corpus: The Expanded Natural History of Song Discography'",
+    "title": "D-PLACE dataset derived from Bertolo et al. 2023 'Cross-cultural music corpus: The Expanded Natural History of Song Discography'",
     "access_right": "open",
     "keywords": [
         "cldf:StructureDataset",
@@ -32,6 +32,15 @@
         {
             "name": "Robert Forkel",
             "type": "DataCurator"
+        },
+        {
+            "name": "Robert Forkel",
+            "type": "Editor"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "dplace"
         }
     ]
 }

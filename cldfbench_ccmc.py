@@ -2,8 +2,9 @@ import pathlib
 import zipfile
 import itertools
 
-from cldfbench import Dataset as BaseDataset, CLDFSpec
+from pydplace.dataset import DatasetWithSocieties, data_schema
 from clldutils.markup import add_markdown_text
+from clldutils.path import git_describe
 
 TYPES = [  # Label, Inclusion criteria, Exclusion criteria
     ('DANCE',
@@ -55,12 +56,9 @@ TYPES = [  # Label, Inclusion criteria, Exclusion criteria
 ]
 
 
-class Dataset(BaseDataset):
+class Dataset(DatasetWithSocieties):
     dir = pathlib.Path(__file__).parent
-    id = "ccmc"
-
-    def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
-        return CLDFSpec(module='StructureDataset', dir=self.cldf_dir)
+    id = "dplace-dataset-ccmc"
 
     def cmd_download(self, args):
         self.raw_dir.download(
@@ -71,32 +69,46 @@ class Dataset(BaseDataset):
             'NHS2-songs.zip')
 
     def cmd_makecldf(self, args):
-        args.writer.cldf.add_component(
+        assert git_describe(self.raw_dir / 'glottolog-cldf') == args.glottolog_version
+        data_schema(args.writer.cldf)  # Add schema for data.
+        self.schema(args.writer.cldf)  # Add schema for societies.
+        # Add custom schema:
+        args.writer.cldf.add_columns(
             'LanguageTable',
             {
-                'name': 'region',
+                'name': 'HRAF_region',
                 'dc:description':
                     'indicates an approximate geographical location where the song was recorded, '
                     'using Human Relations Area Files categories '
                     '(see https://ehrafworldcultures.yale.edu)',
             }
         )
-        args.writer.cldf.add_component('ParameterTable')
-        t = args.writer.cldf.add_component('CodeTable')
-        t.common_props['dc:description'] = \
-            "The codes for the single parameter 'song' are the 10 categories, describing song type."
+        args.writer.cldf['CodeTable'].common_props['dc:description'] = \
+            ("The codes for the single parameter 'CCMC1' are the 10 categories, describing song "
+             "type.")
         t = args.writer.cldf.add_component('MediaTable')
         t.common_props['dc:description'] = \
             "10-second excerpts of the source audio, selected at random from only portions of " \
             "the recording that contain an audible singer."
         args.writer.cldf.add_columns(
             'ValueTable',
-            {'name': 'Song_ID', 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#mediaReference'},
+            {
+                'name': 'Song_ID',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#mediaReference'},
+        )
+        args.writer.cldf['LanguageTable'].common_props['dc:description'] = '{}\n{}'.format(
+            args.writer.cldf['LanguageTable'].common_props['dc:description'],
+            "Note that a society's name and location in this dataset is taken from the "
+            'corresponding language or dialect in Glottolog.'
         )
 
-        glangs = {l.id: l for l in args.glottolog.api.languoids()}
+        glangs = {
+            l['ID']: l for l in
+            self.raw_dir.joinpath('glottolog-cldf', 'cldf').read_csv('languages.csv', dicts=True)}
+        etclangs = {r['glottocode']: r for r in self.etc_dir.read_csv('languages.csv', dicts=True)}
+
         args.writer.objects['ParameterTable'].append(dict(
-            ID='song',
+            ID=self.with_prefix(1),
             Name='NHS2 song',
             Description="A Value for this parameter represents a song in the NHS discography, "
                         "coded for type using one of 10 categories.",
@@ -117,19 +129,22 @@ class Dataset(BaseDataset):
                 rows_ = list(rows_)
                 glottocode = glottocode.strip()
                 glang = glangs[glottocode]
-                args.writer.objects['LanguageTable'].append(dict(
-                    ID=glottocode,
-                    Name=glang.name,
+                loc = etclangs.get(glottocode, glang)
+
+                self.add_society(
+                    args.writer,
+                    ID=self.with_prefix(glottocode),
+                    Name=glang['Name'],
                     Glottocode=glottocode,
-                    region=rows_[0]['region'],
-                    Latitude=glang.latitude,
-                    Longitude=glang.longitude,
-                ))
+                    Latitude=loc['Latitude'],
+                    Longitude=loc['Longitude'],
+                )
+
                 for type, rows in itertools.groupby(rows_, lambda r: r['type']):
                     if type not in seen_types:
                         args.writer.objects['CodeTable'].append(dict(
-                            ID=type,
-                            Parameter_ID='song',
+                            ID=self.with_prefix('1-{}'.format(type)),
+                            Var_ID=self.with_prefix(1),
                             Name=type,
                             Description='Inclusion criteria: {}\nExclusion criteria: {}'.format(
                                 *known_types[type])
@@ -139,15 +154,14 @@ class Dataset(BaseDataset):
                     for row in rows:
                         args.writer.objects['ValueTable'].append(dict(
                             ID=row['song'],
-                            Parameter_ID='song',
-                            Language_ID=glottocode,
-                            Code_ID=type,
-                            Value='y',
+                            Var_ID=self.with_prefix(1),
+                            Soc_ID=self.with_prefix(glottocode),
+                            Code_ID=self.with_prefix('1-{}'.format(type)),
+                            Value=type,
                             Song_ID=row['song'],
                         ))
                         args.writer.objects['MediaTable'].append(dict(
                             ID=row['song'],
-                            Parameter_ID='song',
                             Name=row['song'],
                             Media_Type='audio/mpeg',
                             Download_URL='songs/{}.mp3'.format(row['song']),

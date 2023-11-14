@@ -1,0 +1,2 @@
+ID,Name,Description,ColumnSpec,category,type,unit,source_comment,changes,comment
+CCMC1,NHS2 song,"A Value for this parameter represents a song in the NHS discography, coded for type using one of 10 categories.",,,,,,,
