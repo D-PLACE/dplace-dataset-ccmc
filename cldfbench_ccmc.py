@@ -3,7 +3,6 @@ import zipfile
 import itertools
 
 from pydplace.dataset import DatasetWithSocieties, data_schema
-from clldutils.markup import add_markdown_text
 from clldutils.path import git_describe
 
 TYPES = [  # Label, Inclusion criteria, Exclusion criteria
@@ -169,17 +168,3 @@ class Dataset(DatasetWithSocieties):
                         song_dir.joinpath('{}.mp3'.format(row['song'])).write_bytes(
                             songs.read('corpus_processed/{}.mp3'.format(row['song'])))
 
-    def cmd_readme(self, args):
-        return add_markdown_text(
-            super().cmd_readme(args),
-            """### Coverage
-
-![](map.png)
-
-### Data model
-
-See [cldf/README.md](cldf) for a description of the tables and columns and the
-entity-relationship diagram below for how they relate.
-
-![](erd.svg)""",
-            section='Description')
