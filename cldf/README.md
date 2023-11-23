@@ -8,12 +8,12 @@ The Expanded Natural History of Song Discography contains more than 1000 audio r
 
 property | value
  --- | ---
-[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Mila Bertolo, Martynas Snarskis, Manvir Singh, & Samuel Mehr. (2023, August 8). Cross-cultural music corpus: The Expanded Natural History of Song Discography. Zenodo. https://doi.org/10.5281/zenodo.8237500
+[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Mila Bertolo, Martynas Snarskis, Manvir Singh, & Samuel Mehr. (2023, August 8). Cross-cultural music corpus: The Expanded Natural History of Song Discography. Zenodo. https://doi.org/10.5281/zenodo.8378337
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF StructureDataset](http://cldf.clld.org/v1.0/terms.rdf#StructureDataset)
-[dc:identifier](http://purl.org/dc/terms/identifier) | https://doi.org/10.5281/zenodo.8223168
+[dc:identifier](http://purl.org/dc/terms/identifier) | https://doi.org/10.5281/zenodo.8378337
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/D-PLACE/dplace-dataset-ccmc
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/D-PLACE/dplace-dataset-ccmc/tree/480e307">D-PLACE/dplace-dataset-ccmc 480e307</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li><li><a href="https://github.com/glottolog/glottolog-cldf/tree/v4.8">glottolog/glottolog-cldf v4.8</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/D-PLACE/dplace-dataset-ccmc/tree/ceff74d">D-PLACE/dplace-dataset-ccmc ceff74d</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li><li><a href="https://github.com/glottolog/glottolog-cldf/tree/v4.8">glottolog/glottolog-cldf v4.8</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.10.12</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | dplace-dataset-ccmc
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution

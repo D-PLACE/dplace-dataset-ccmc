@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Mila Bertolo, Martynas Snarskis, Manvir Singh, & Samuel Mehr. (2023, August 8). Cross-cultural music corpus: The Expanded Natural History of Song Discography. Zenodo. https://doi.org/10.5281/zenodo.8237500
+  > Mila Bertolo, Martynas Snarskis, Manvir Singh, & Samuel Mehr. (2023, August 8). Cross-cultural music corpus: The Expanded Natural History of Song Discography. Zenodo. https://doi.org/10.5281/zenodo.8378337
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -14,7 +14,7 @@ The Expanded Natural History of Song Discography contains more than 1000 audio r
 
 This dataset is licensed under a CC-BY-4.0 license
 
-Available online at https://doi.org/10.5281/zenodo.8223168
+Available online at https://doi.org/10.5281/zenodo.8378337
 
 
 

@@ -1,6 +1,4 @@
 ID,Var_ID,Name,Description,ord
-CCMC1-Love,CCMC1,Love,"Inclusion criteria: Sung to express love directly to another person or to describe currently felt love.
-Exclusion criteria: Songs about unrequited love, deceased loved ones, or love for animals or property.",
 CCMC1-Dance,CCMC1,Dance,"Inclusion criteria: Sung with the goal of a person or persons dancing along to it.
 Exclusion criteria: Songs that happen to be accompanied by dancing but are used for other goals.",
 CCMC1-Mourning,CCMC1,Mourning,"Inclusion criteria: Sung to express grief or sadness about the death of a person, in the present or past.
@@ -17,5 +15,7 @@ CCMC1-Lullaby,CCMC1,Lullaby,"Inclusion criteria: Sung to an infant or child with
 Exclusion criteria: Songs designed to excite the listener (e.g., ""play songs""); singing games.",
 CCMC1-Play,CCMC1,Play,"Inclusion criteria: A song that excites a child or infant and engages them in play. This can include singing games.
 Exclusion criteria: Children's songs for soothing, calming, or putting to sleep.",
+CCMC1-Love,CCMC1,Love,"Inclusion criteria: Sung to express love directly to another person or to describe currently felt love.
+Exclusion criteria: Songs about unrequited love, deceased loved ones, or love for animals or property.",
 CCMC1-Healing,CCMC1,Healing,"Inclusion criteria: Sung in a healing ceremony with the goal of curing sickness.
 Exclusion criteria: Songs describing sick people or a past epidemic.",

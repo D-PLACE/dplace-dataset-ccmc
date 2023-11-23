@@ -61,10 +61,10 @@ class Dataset(DatasetWithSocieties):
 
     def cmd_download(self, args):
         self.raw_dir.download(
-            'https://zenodo.org/record/8237500/files/NHS2-metadata.csv?download=1',
+            'https://zenodo.org/records/8378337/files/NHS2-metadata.csv?download=1',
             'NHS2-metadata.csv')
         self.raw_dir.download(
-            'https://zenodo.org/record/8237500/files/NHS2-songs.zip?download=1',
+            'https://zenodo.org/records/8378337/files/NHS2-songs.zip?download=1',
             'NHS2-songs.zip')
 
     def cmd_makecldf(self, args):
@@ -137,6 +137,7 @@ class Dataset(DatasetWithSocieties):
                     Glottocode=glottocode,
                     Latitude=loc['Latitude'],
                     Longitude=loc['Longitude'],
+                    HRAF_region=rows_[0]['region'],
                 )
 
                 for type, rows in itertools.groupby(rows_, lambda r: r['type']):

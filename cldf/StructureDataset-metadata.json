@@ -5,10 +5,10 @@
             "@language": "en"
         }
     ],
-    "dc:bibliographicCitation": "Mila Bertolo, Martynas Snarskis, Manvir Singh, & Samuel Mehr. (2023, August 8). Cross-cultural music corpus: The Expanded Natural History of Song Discography. Zenodo. https://doi.org/10.5281/zenodo.8237500",
+    "dc:bibliographicCitation": "Mila Bertolo, Martynas Snarskis, Manvir Singh, & Samuel Mehr. (2023, August 8). Cross-cultural music corpus: The Expanded Natural History of Song Discography. Zenodo. https://doi.org/10.5281/zenodo.8378337",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:description": "The Expanded Natural History of Song Discography contains more than 1000 audio recordings of vocal music gathered from many human societies, each annotated with a world region, language, and behavioural context.",
-    "dc:identifier": "https://doi.org/10.5281/zenodo.8223168",
+    "dc:identifier": "https://doi.org/10.5281/zenodo.8378337",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:title": "D-PLACE dataset derived from Bertolo et al. 2023 'Cross-cultural music corpus: The Expanded Natural History of Song Discography'",
     "dcat:accessURL": "https://github.com/D-PLACE/dplace-dataset-ccmc",
@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-ccmc",
             "rdf:type": "prov:Entity",
-            "dc:created": "480e307",
+            "dc:created": "ceff74d",
             "dc:title": "Repository"
         },
         {

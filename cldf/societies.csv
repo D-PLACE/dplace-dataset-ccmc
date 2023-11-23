@@ -1,411 +1,411 @@
 ID,Name,Latitude,Longitude,Glottocode,Name_and_ID_in_source,xd_id,alt_names_by_society,main_focal_year,HRAF_name_ID,HRAF_ID,origLat,origLong,comment,glottocode_comment,region,HRAF_region
-CCMCoriy1255,Odia,21.0,85.0,oriy1255,,,,,,,,,,,Indian Subcontinent,
-CCMCabkh1244,Abkhaz,43.056218,41.159115,abkh1244,,,,,,,,,,,Caucasus,
-CCMCacol1236,Acoli,3.57738,32.5147,acol1236,,,,,,,,,,,East Tropical Africa,
-CCMCafar1241,Afar,12.2281,41.8083,afar1241,,,,,,,,,,,Northeast Tropical Africa,
-CCMCainu1240,Hokkaido Ainu,43.633654,142.46167,ainu1240,,,,,,,,,,,Eastern Asia,
-CCMCakan1250,Akan,6.34756,-1.33254,akan1250,,,,,,,,,,,West Tropical Africa,
-CCMCalba1267,Albanian,40.99952028050002,20.791828239250023,alba1267,,,,,,,,,,,Southeastern Europe,
-CCMCalur1250,Alur,2.36213,31.0016,alur1250,,,,,,,,,,,East Tropical Africa,
-CCMCaman1265,Amanab,-3.51516,141.178,aman1265,,,,,,,,,,,Papuasia,
-CCMCamer1254,Latin American Spanish,40.4414,-1.11788,amer1254,,,,,,,,,,,Southwestern Europe,
-CCMCamha1245,Amharic,11.708182,39.543456,amha1245,,,,,,,,,,,Northeast Tropical Africa,
-CCMCamis1246,Amis,23.0917,121.348,amis1246,,,,,,,,,,,Eastern Asia,
-CCMCanga1288,Angami Naga,25.6841,93.8668,anga1288,,,,,,,,,,,Indian Subcontinent,
-CCMCanta1255,Antankarana Malagasy,-13.2164,49.2402,anta1255,,,,,,,,,,,Western Indian Ocean,
-CCMCanti1245,Antigua and Barbuda Creole English,17.068263,-61.821863,anti1245,,,,,,,,,,,Caribbean,
-CCMCarab1395,Arabic,28.54883209863231,33.89900988007798,arab1395,,,,,,,,,,,Western Asia,
-CCMCarhu1242,Arhuaco,10.7018,-73.6363,arhu1242,,,,,,,,,,,Western South America,
-CCMCarom1237,Aromanian,40.616,21.2,arom1237,,,,,,,,,,,Southeastern Europe,
-CCMCatay1247,Atayal,24.5209,121.388,atay1247,,,,,,,,,,,Eastern Asia,
-CCMCatla1275,Atlas Berber,32.47515,-4.926258333333333,atla1275,,,,,,,,,,,Northern Africa,
-CCMCaush1241,Aushi,-11.6295,29.0168,aush1241,,,,,,,,,,,South Tropical Africa,
-CCMCayac1239,Ayacucho Quechua,-13.84714,-74.32246,ayac1239,,,,,,,,,,,Western South America,
-CCMCbaeg1237,Baeggu,-8.49014,160.771,baeg1237,,,,,,,,,,,Papuasia,
-CCMCbafu1246,Bafut,6.14153,10.1194,bafu1246,,,,,,,,,,,West-Central Tropical Africa,
-CCMCbaic1239,Baic,26.383899999999997,99.82655,baic1239,,,,,,,,,,,China,
-CCMCbali1278,Balinese,-8.35714,115.075,bali1278,,,,,,,,,,,Malesia,
-CCMCbamb1264,Bambenzele,3.6515,17.2713,bamb1264,,,,,,,,,,,West-Central Tropical Africa,
-CCMCbant1295,Bantu A-B10-B20-B30,2.0415592232505344,11.906256146109017,bant1295,,,,,,,,,,,West-Central Tropical Africa,
-CCMCbard1255,Bardi,-16.6274,122.906,bard1255,,,,,,,,,,,Australia,
-CCMCbasq1248,Basque,43.2787,-1.31622,basq1248,,,,,,,,,,,Southwestern Europe,
-CCMCbava1246,Bavarian,47.9232,13.246,bava1246,,,,,,,,,,,Middle Europe,
-CCMCbeja1238,Beja,17.2436,36.6666,beja1238,,,,,,,,,,,Northeast Tropical Africa,
-CCMCbemb1257,Bemba (Zambia),-10.6122,29.2993,bemb1257,,,,,,,,,,,South Tropical Africa,
-CCMCbeng1280,Bengali,24.0,90.0,beng1280,,,,,,,,,,,Indian Subcontinent,
-CCMCbhoj1244,Bhojpuri,26.458455,84.817115,bhoj1244,,,,,,,,,,,Indian Subcontinent,
-CCMCbila1255,Bila,1.16839,28.7626,bila1255,,,,,,,,,,,West-Central Tropical Africa,
-CCMCboro1282,Bororo,-16.6029,-55.2004,boro1282,,,,,,,,,,,Brazil,
-CCMCbosn1245,Bosnian Standard,43.859,17.046,bosn1245,,,,,,,,,,,Southeastern Europe,
-CCMCbukh1238,Bukharic,41.0,64.0,bukh1238,,,,,,,,,,,Middle Asia,
-CCMCbulg1262,Bulgarian,43.3646,25.047,bulg1262,,,,,,,,,,,Southeastern Europe,
-CCMCbulu1251,Bulu (Cameroon),3.16141,11.6365,bulu1251,,,,,,,,,,,West-Central Tropical Africa,
-CCMCbunu1267,Bunun,23.4116,121.025,bunu1267,,,,,,,,,,,Eastern Asia,
-CCMCburu1296,Burushaski,36.2161,74.8236,buru1296,,,,,,,,,,,Indian Subcontinent,
-CCMCcala1254,Calabrian Albanian,38.911,16.7164,cala1254,,,,,,,,,,,Southeastern Europe,
-CCMCcayu1261,Cayuga,42.41,-76.5969,cayu1261,,,,,,,,,,,Northeastern U.S.A.,
-CCMCcent1972,Central Kurdish,35.6539,45.8077,cent1972,,,,,,,,,,,Western Asia,
-CCMCcent2018,Central-Eastern Niger Fulfulde,15.0907,8.43261,cent2018,,,,,,,,,,,West Tropical Africa,
-CCMCcent2126,Central Okinawan,26.14854,127.7816,cent2126,,,,,,,,,,,Eastern Asia,
-CCMCcent2127,Central Alaskan Yupik,60.3062,-161.486,cent2127,,,,,,,,,,,Subarctic America,
-CCMCcent2131,Central Tarahumara,27.5648,-107.154,cent2131,,,,,,,,,,,Mexico,
-CCMCcent2142,Central Aymara,-17.0,-68.5,cent2142,,,,,,,,,,,Western South America,
-CCMCcent2194,Central Moroccan Berber,32.7415,-2.40872,cent2194,,,,,,,,,,,Northern Africa,
-CCMCcent2225,Central Sudanic,4.293051212935224,27.949921102438214,cent2225,,,,,,,,,,,West-Central Tropical Africa,
-CCMCchac1249,Cha'palaa,0.71489,-79.0508,chac1249,,,,,,,,,,,Western South America,
-CCMCchad1249,Chadian Arabic,14.67,13.5,chad1249,,,,,,,,,,,West Tropical Africa,
-CCMCchak1266,Chakma,23.00148,92.339,chak1266,,,,,,,,,,,Indian Subcontinent,
-CCMCcher1273,Cherokee,35.4664,-83.163,cher1273,,,,,,,,,,,Southeastern U.S.A.,
-CCMCchey1247,Cheyenne,45.5321,-106.659,chey1247,,,,,,,,,,,Northwestern U.S.A.,
-CCMCchig1238,Chiga,-1.04387,29.9122,chig1238,,,,,,,,,,,East Tropical Africa,
-CCMCchip1241,Chippewa,47.347,-94.2738,chip1241,,,,,,,,,,,North-Central U.S.A.,
-CCMCchoc1280,Chocoan,6.733067083333334,-76.96017,choc1280,,,,,,,,,,,Western South America,
-CCMCchok1245,Chokwe,-9.66082,21.3992,chok1245,,,,,,,,,,,South Tropical Africa,
-CCMCchuk1273,Chukchi,68.6436,170.045,chuk1273,,,,,,,,,,,Russian Far East,
-CCMCchuu1238,Chuukese,7.346993,151.598607,chuu1238,,,,,,,,,,,Northwestern Pacific,
-CCMCcoca1259,Cocama-Cocamilla,-4.5,-74.0,coca1259,,,,,,,,,,,Western South America,
-CCMCcogu1240,Cogui,10.9485,-73.8043,cogu1240,,,,,,,,,,,Western South America,
-CCMCcree1272,Cree,53.343979208660386,-91.26566754642054,cree1272,,,,,,,,,,,Eastern Canada,
-CCMCcroa1245,Croatian Standard,45.555,15.982,croa1245,,,,,,,,,,,Southeastern Europe,
-CCMCcusc1236,Cusco Quechua,-14.0853,-71.7663,cusc1236,,,,,,,,,,,Western South America,
-CCMCczec1258,Czech,49.873398,15.10437,czec1258,,,,,,,,,,,Middle Europe,
-CCMCdako1258,Dakota,45.86,-96.58,dako1258,,,,,,,,,,,North-Central U.S.A.,
-CCMCdama1270,Damara,-25.0747,17.9767,dama1270,,,,,,,,,,,Southern Africa,
-CCMCdani1285,Danish,54.8655,9.36284,dani1285,,,,,,,,,,,Northern Europe,
-CCMCdari1249,Dari,31.0405,67.3593,dari1249,,,,,,,,,,,Indian Subcontinent,
-CCMCdhuw1249,Dhuwal,-12.7825,136.008,dhuw1249,,,,,,,,,,,Australia,
-CCMCdizi1235,Dizin,6.1405,35.5763,dizi1235,,,,,,,,,,,Northeast Tropical Africa,
-CCMCdjap1238,Djapu,-12.879764,136.417978,djap1238,,,,,,,,,,,Australia,
-CCMCdomi1242,Dominican Spanish,40.4414,-1.11788,domi1242,,,,,,,,,,,Southwestern Europe,
-CCMCdrav1251,Dravidian,22.000694930590036,79.45764897410312,drav1251,,,,,,,,,,,Indian Subcontinent,
-CCMCduma1252,Duma (Karanga),-17.20849,29.75725,duma1252,,,,,,,,,,,South Tropical Africa,
-CCMCduma1253,Duma,-0.91927,13.0046,duma1253,,,,,,,,,,,West-Central Tropical Africa,
-CCMCdutc1256,Dutch,52.0,5.0,dutc1256,,,,,,,,,,,Middle Europe,
-CCMCeast2534,Eastern Canadian Inuktitut,62.1735,-75.6139,east2534,,,,,,,,,,,Eastern Canada,
-CCMCecua1248,Ecuadorian Quechua A,-1.02793,-78.50203333333334,ecua1248,,,,,,,,,,,Western South America,
-CCMCeipo1242,Eipomek,-4.33691,140.045,eipo1242,,,,,,,,,,,Papuasia,
-CCMCelna1235,El Nayar Cora,22.4099,-104.467,elna1235,,,,,,,,,,,Mexico,
-CCMCemil1243,Emiliano-Romagnolo,44.294250000000005,11.649149999999999,emil1243,,,,,,,,,,,Southeastern Europe,
-CCMCesto1258,Estonian,58.55,25.82,esto1258,,,,,,,,,,,Eastern Europe,
-CCMCeven1259,Evenki,61.972,94.689,even1259,,,,,,,,,,,Siberia,
-CCMCewee1241,Ewe,6.46061,0.814975,ewee1241,,,,,,,,,,,West Tropical Africa,
-CCMCfang1246,Fang (Equatorial Guinea),1.723965,11.61454,fang1246,,,,,,,,,,,West-Central Tropical Africa,
-CCMCfata1245,Fataleka,-8.59041,160.861,fata1245,,,,,,,,,,,Papuasia,
-CCMCfiji1243,Fijian,-18.0,178.33,fiji1243,,,,,,,,,,,Southwestern Pacific,
-CCMCfinn1318,Finnish,64.7628,25.5577,finn1318,,,,,,,,,,,Northern Europe,
-CCMCgali1262,Galibi Carib,5.83772,-56.8323,gali1262,,,,,,,,,,,Northern South America,
-CCMCgand1255,Ganda,0.66884,32.15153,gand1255,,,,,,,,,,,East Tropical Africa,
-CCMCgari1256,Garifuna,15.3529,-86.9091,gari1256,,,,,,,,,,,Central America,
-CCMCgaro1247,Garo,25.2954,90.462,garo1247,,,,,,,,,,,Indian Subcontinent,
-CCMCgheg1238,Gheg Albanian,42.317,21.3837,gheg1238,,,,,,,,,,,Southeastern Europe,
-CCMCgilb1244,Gilbertese,0.179,173.64,gilb1244,,,,,,,,,,,Southwestern Pacific,
-CCMCgily1242,Amur Nivkh,52.59,140.681,gily1242,,,,,,,,,,,Russian Far East,
-CCMCgour1247,Gourara,29.1107,0.01992,gour1247,,,,,,,,,,,Northern Africa,
-CCMCgree1280,Greenlandic Inuit,67.4948555,-45.2475555,gree1280,,,,,,,,,,,Subarctic America,
-CCMCgren1247,Grenadian Creole English,12.0067,-61.6989,gren1247,,,,,,,,,,,Caribbean,
-CCMCguad1242,Guadeloupe-Martinique Creole French,16.304875,-61.405914,guad1242,,,,,,,,,,,Caribbean,
-CCMCguan1269,Kotiria,1.07554,-69.5705,guan1269,,,,,,,,,,,Brazil,
-CCMCguer1241,Central Guerrero Nahuatl,17.8583,-99.0023,guer1241,,,,,,,,,,,Mexico,
-CCMCgugu1254,Gugubera,-15.4296,141.635,gugu1254,,,,,,,,,,,Australia,
-CCMCguja1252,Gujarati,22.687,71.0962,guja1252,,,,,,,,,,,Indian Subcontinent,
-CCMCgulf1241,Gulf Arabic,30.17,47.5,gulf1241,,,,,,,,,,,Western Asia,
-CCMCgunw1252,Bininj Kun-Wok,-12.3398,133.358,gunw1252,,,,,,,,,,,Australia,
-CCMChadr1236,Hadrami Arabic,15.4468,48.6524,hadr1236,,,,,,,,,,,Arabian Peninsula,
-CCMChaid1248,Haida,53.63306599999999,-132.0436285,haid1248,,,,,,,,,,,Western Canada,
-CCMChait1244,Haitian,18.795135,-72.136115,hait1244,,,,,,,,,,,Caribbean,
-CCMChanu1241,Hanunoo,12.4159,121.221,hanu1241,,,,,,,,,,,Malesia,
-CCMChass1238,Hassaniyya,18.29,-14.11,hass1238,,,,,,,,,,,West Tropical Africa,
-CCMChava1248,Havasupai-Walapai-Yavapai,35.6302,-113.385,hava1248,,,,,,,,,,,Southwestern U.S.A.,
-CCMChawa1245,Hawaiian,19.6297,-155.43,hawa1245,,,,,,,,,,,North-Central Pacific,
-CCMChere1253,Herero,-21.0231,20.5655,here1253,,,,,,,,,,,Southern Africa,
-CCMChima1250,Himachali,31.411180998795718,77.13756627624385,hima1250,,,,,,,,,,,Indian Subcontinent,
-CCMChind1269,Hindi,25.0,77.0,hind1269,,,,,,,,,,,Indian Subcontinent,
-CCMChopi1249,Hopi,35.7653,-110.535,hopi1249,,,,,,,,,,,Southwestern U.S.A.,
-CCMChuau1238,Huautla Mazatec,18.2556,-96.724,huau1238,,,,,,,,,,,Mexico,
-CCMChuic1243,Huichol,21.954,-104.062,huic1243,,,,,,,,,,,Mexico,
-CCMChung1274,Hungarian,46.9068585714,19.6555271429,hung1274,,,,,,,,,,,Middle Europe,
-CCMCicel1247,Icelandic,63.4837,-19.0212,icel1247,,,,,,,,,,,Northern Europe,
-CCMCindo1316,Standard Indonesian,-7.33458,109.716,indo1316,,,,,,,,,,,Malesia,
-CCMCindo1317,Indonesian Bajau,-3.68664,122.253,indo1317,,,,,,,,,,,Malesia,
-CCMCiris1255,Irish English,53.0,-1.0,iris1255,,,,,,,,,,,Northern Europe,
-CCMCital1282,Italian,43.0464,12.6489,ital1282,,,,,,,,,,,Southeastern Europe,
-CCMCiumi1238,Iu Mien,20.83,101.17,iumi1238,,,,,,,,,,,Indo-China,
-CCMCiwai1244,Iwaidja,-11.3379,132.453,iwai1244,,,,,,,,,,,Australia,
-CCMCixil1251,Ixil,15.4569,-90.8935,ixil1251,,,,,,,,,,,Central America,
-CCMCjama1262,Jamaican Creole English,18.13,-77.2612,jama1262,,,,,,,,,,,Caribbean,
-CCMCjamb1236,Jambi Malay,-2.6469,103.13,jamb1236,,,,,,,,,,,Malesia,
-CCMCjaun1243,Jaunsari,30.5587,77.9084,jaun1243,,,,,,,,,,,Indian Subcontinent,
-CCMCjava1254,Javanese,-7.001,109.287,java1254,,,,,,,,,,,Malesia,
-CCMCjeha1242,Jehai,5.63695,101.541,jeha1242,,,,,,,,,,,Malesia,
-CCMCjiva1245,Chicham,-4.361705000000001,-77.8664,jiva1245,,,,,,,,,,,Western South America,
-CCMCjola1263,Jola-Fonyi,12.75752,-15.7354766667,jola1263,,,,,,,,,,,West Tropical Africa,
-CCMCjuho1239,South-Eastern Ju,-19.688,20.7673,juho1239,,,,,,,,,,,Southern Africa,
-CCMCjuru1256,Jurúna,-10.9354,-53.3472,juru1256,,,,,,,,,,,Brazil,
-CCMCkabi1260,Kabikabi,-25.44486229,153.1539929,kabi1260,,,,,,,,,,,Australia,
-CCMCkach1277,Kachchi,23.83,69.0,kach1277,,,,,,,,,,,Indian Subcontinent,
-CCMCkain1272,Kaingang,-27.7671,-52.5394,kain1272,,,,,,,,,,,Brazil,
-CCMCkala1377,Kala Lagaw Ya,-10.6748,142.196,kala1377,,,,,,,,,,,Australia,
-CCMCkali1308,Kalispel-Pend d'Oreille,47.5825,-114.19,kali1308,,,,,,,,,,,Northwestern U.S.A.,
-CCMCkama1373,Kamayurá,-12.2661,-53.4651,kama1373,,,,,,,,,,,Brazil,
-CCMCkamb1320,Central-East Sumbanese,-9.646905555555557,119.76885,kamb1320,,,,,,,,,,,Malesia,
-CCMCkana1291,Katukína-Kanamarí,-6.45399,-68.7678,kana1291,,,,,,,,,,,Brazil,
-CCMCkara1467,Kara-Kalpak,39.98005,63.32233,kara1467,,,,,,,,,,,Middle Asia,
-CCMCkara1483,Karamojong,2.45157,34.2761,kara1483,,,,,,,,,,,East Tropical Africa,
-CCMCkara1484,Karanga,13.1748,20.6354,kara1484,,,,,,,,,,,Northeast Tropical Africa,
-CCMCkara1500,Karajá,-11.1881,-50.3492,kara1500,,,,,,,,,,,Brazil,
-CCMCkash1274,Kashubian,54.2996,18.6163,kash1274,,,,,,,,,,,Middle Europe,
-CCMCkaul1240,Kaulong,-6.08192,149.696,kaul1240,,,,,,,,,,,Papuasia,
-CCMCkaya1330,Kayapó,-7.77352,-51.6737,kaya1330,,,,,,,,,,,Brazil,
-CCMCkaza1248,Kazakh,51.17,71.454,kaza1248,,,,,,,,,,,Middle Asia,
-CCMCkekc1242,Kekchí,15.3788,-89.2452,kekc1242,,,,,,,,,,,Central America,
-CCMCkela1258,Kelabit,3.31783,115.428,kela1258,,,,,,,,,,,Malesia,
-CCMCkema1243,Kemak,-9.00299,125.159,kema1243,,,,,,,,,,,Malesia,
-CCMCkemi1239,Kemi Saami,67.093,27.537,kemi1239,,,,,,,,,,,Northern Europe,
-CCMCkere1287,Keresan,35.24745,-106.98499999999999,kere1287,,,,,,,,,,,South-Central U.S.A.,
-CCMCkiny1244,Kinyarwanda,-1.56771,29.6441,kiny1244,,,,,,,,,,,West-Central Tropical Africa,
-CCMCkiow1264,Kiowa Apache,34.9077,-98.2461,kiow1264,,,,,,,,,,,North-Central U.S.A.,
-CCMCkiow1266,Kiowa,34.9403,-98.9042,kiow1266,,,,,,,,,,,North-Central U.S.A.,
-CCMCkirg1245,Kirghiz,42.0,74.0,kirg1245,,,,,,,,,,,Middle Asia,
-CCMCkohi1250,Kohin,-1.43973,111.905,kohi1250,,,,,,,,,,,Malesia,
-CCMCkomi1269,Komi-Permyak,59.6602,54.7959,komi1269,,,,,,,,,,,Eastern Europe,
-CCMCkore1280,Korean,37.54,126.98,kore1280,,,,,,,,,,,Eastern Asia,
-CCMCkory1246,Koryak,63.8977,166.695,kory1246,,,,,,,,,,,Russian Far East,
-CCMCkota1263,Kota (India),11.4978,76.9387,kota1263,,,,,,,,,,,Indian Subcontinent,
-CCMCkoyo1242,Koyo,-0.69688,15.7508,koyo1242,,,,,,,,,,,West-Central Tropical Africa,
-CCMCkrah1246,Krahô,-8.01172,-47.5774,krah1246,,,,,,,,,,,Brazil,
-CCMCkuik1246,Kuikúro-Kalapálo,-12.3035,-53.2261,kuik1246,,,,,,,,,,,Brazil,
-CCMCkuma1280,Kuman,-5.90586,144.977,kuma1280,,,,,,,,,,,Papuasia,
-CCMCkups1238,Kupsabiny,1.33197,34.5991,kups1238,,,,,,,,,,,East Tropical Africa,
-CCMCkurd1259,Kurdish,35.18386666666667,45.13510000000001,kurd1259,,,,,,,,,,,Western Asia,
-CCMCkwak1269,Kwak'wala,50.9269,-127.308,kwak1269,,,,,,,,,,,Western Canada,
-CCMCkwen1247,Kwenyii,-22.2689,166.705,kwen1247,,,,,,,,,,,Southwestern Pacific,
-CCMCladi1251,Ladino,41.205,28.6632,ladi1251,,,,,,,,,,,Southeastern Europe,
-CCMClako1247,Lakota,46.3699,-103.95,lako1247,,,,,,,,,,,North-Central U.S.A.,
-CCMClala1264,Lala-Bisa,-12.945,30.2297,lala1264,,,,,,,,,,,South Tropical Africa,
-CCMClaoo1244,Lao,19.0,102.46,laoo1244,,,,,,,,,,,Indo-China,
-CCMClard1243,Lardil,-16.56152,139.4343,lard1243,,,,,,,,,,,Australia,
-CCMClatv1249,Latvian,56.826108,24.309118,latv1249,,,,,,,,,,,Eastern Europe,
-CCMCless1242,Lesser Antillean French Creole,16.25,-61.57,less1242,,,,,,,,,,,Caribbean,
-CCMClioo1240,Li'o,-8.68615,121.832,lioo1240,,,,,,,,,,,Malesia,
-CCMClith1251,Lithuanian,55.1429,23.9601,lith1251,,,,,,,,,,,Eastern Europe,
-CCMClito1235,Litoka,2.69,19.24,lito1235,,,,,,,,,,,West-Central Tropical Africa,
-CCMClowe1445,Lower Northern English,53.0,-1.0,lowe1445,,,,,,,,,,,Northern Europe,
-CCMClowg1239,Low German,52.675131666666665,10.368006666666666,lowg1239,,,,,,,,,,,Middle Europe,
-CCMCloya1239,Loyalty Islands,-21.0166,167.261,loya1239,,,,,,,,,,,Southwestern Pacific,
-CCMClozi1239,Lozi,-17.7052,24.7398,lozi1239,,,,,,,,,,,Southern Africa,
-CCMCluba1249,Luba-Lulua,-5.72717,22.4422,luba1249,,,,,,,,,,,West-Central Tropical Africa,
-CCMClund1266,Lunda,-11.1793,23.8662,lund1266,,,,,,,,,,,South Tropical Africa,
-CCMCmace1250,Macedonian,41.5957,21.7932,mace1250,,,,,,,,,,,Southeastern Europe,
-CCMCmacu1259,Macushi,4.31861,-60.2209,macu1259,,,,,,,,,,,Brazil,
-CCMCmadi1260,Ma'di,3.62499,31.8471,madi1260,,,,,,,,,,,East Tropical Africa,
-CCMCmagu1243,Maguindanao,6.9453,124.509,magu1243,,,,,,,,,,,Malesia,
-CCMCmaha1287,Mahasu Pahari,31.0088,77.5317,maha1287,,,,,,,,,,,Indian Subcontinent,
-CCMCmaha1309,Mahafaly-Antanalana Malagasy,-24.2,44.5,maha1309,,,,,,,,,,,Western Indian Ocean,
-CCMCmaka1311,Makasar,-5.65551,119.838,maka1311,,,,,,,,,,,Malesia,
-CCMCmaku1246,Máku,3.969231,-64.235892,maku1246,,,,,,,,,,,Brazil,
-CCMCmala1464,Malayalam,9.59208,76.7651,mala1464,,,,,,,,,,,Indian Subcontinent,
-CCMCmand1415,Mandarin Chinese,40.0209,116.228,mand1415,,,,,,,,,,,China,
-CCMCmang1405,Manggarai,-8.55748,120.329,mang1405,,,,,,,,,,,Malesia,
-CCMCmaor1246,Maori,-38.2881,176.541,maor1246,,,,,,,,,,,New Zealand,
-CCMCmapu1245,Mapudungun,-38.7392,-71.277,mapu1245,,,,,,,,,,,Southern South America,
-CCMCmaqu1238,Ye'kwana,4.70705,-64.3877,maqu1238,,,,,,,,,,,Northern South America,
-CCMCmara1378,Marathi,17.9344,76.6665,mara1378,,,,,,,,,,,Indian Subcontinent,
-CCMCmari1278,Mari,56.02535,47.48700000000001,mari1278,,,,,,,,,,,Eastern Europe,
-CCMCmart1259,Martinique Creole French,14.6369,-61.0194,mart1259,,,,,,,,,,,Caribbean,
-CCMCmasa1300,Masai,-3.1419,36.4573,masa1300,,,,,,,,,,,East Tropical Africa,
-CCMCmaya1287,Mayan,17.423987813269193,-92.8442033793036,maya1287,,,,,,,,,,,Mexico,
-CCMCmayo1264,Mayo,26.4522,-108.981,mayo1264,,,,,,,,,,,Mexico,
-CCMCmaza1291,Mazanderani,36.241,52.3009,maza1291,,,,,,,,,,,Western Asia,
-CCMCmbuk1240,Mbukushu,-17.6827,22.5026,mbuk1240,,,,,,,,,,,South Tropical Africa,
-CCMCmeit1246,Meitei,24.4409,93.3426,meit1246,,,,,,,,,,,Indian Subcontinent,
-CCMCmelp1238,Melpa,-5.62644,144.34,melp1238,,,,,,,,,,,Papuasia,
-CCMCmeri1244,Meriam,-9.59575,143.773,meri1244,,,,,,,,,,,Papuasia,
-CCMCmezq1235,Mezquital Otomi,20.2274,-99.5564,mezq1235,,,,,,,,,,,Mexico,
-CCMCmika1239,Mikasuki,31.5,-84.0,mika1239,,,,,,,,,,,Southeastern U.S.A.,
-CCMCmikm1235,Mi'kmaq,46.0,-64.0,mikm1235,,,,,,,,,,,Eastern Canada,
-CCMCmina1268,Minangkabau,-0.896,100.44,mina1268,,,,,,,,,,,Malesia,
-CCMCmiri1266,Miriwung,-16.3596,128.889,miri1266,,,,,,,,,,,Australia,
-CCMCmisk1235,Mískito,15.1576,-84.2942,misk1235,,,,,,,,,,,Central America,
-CCMCmode1248,Modern Greek,38.36,23.13,mode1248,,,,,,,,,,,Southeastern Europe,
-CCMCmong1338,Mongo,-1.54228,20.4259,mong1338,,,,,,,,,,,West-Central Tropical Africa,
-CCMCmuri1262,Muria,20.1903,80.79495,muri1262,,,,,,,,,,,Indian Subcontinent,
-CCMCnama1264,Nama (Namibia),-25.0747,17.9767,nama1264,,,,,,,,,,,Southern Africa,
-CCMCnana1257,Nanai,48.43426,134.79726,nana1257,,,,,,,,,,,Russian Far East,
-CCMCnapo1241,Napoletano,39.2288,16.4225,napo1241,,,,,,,,,,,Southeastern Europe,
-CCMCnaro1249,Naro,-22.0939,20.7458,naro1249,,,,,,,,,,,Southern Africa,
-CCMCndon1254,Ndonga,-17.22,17.35,ndon1254,,,,,,,,,,,South Tropical Africa,
-CCMCnepa1254,Nepali,28.0,85.0,nepa1254,,,,,,,,,,,Indian Subcontinent,
-CCMCngon1269,Tanzania-Mozambique Ngoni,-11.7794,37.4118,ngon1269,,,,,,,,,,,South Tropical Africa,
-CCMCnias1242,Nias,0.90691,97.4961,nias1242,,,,,,,,,,,Malesia,
-CCMCnica1252,Nicaragua Creole English,12.4402,-83.7386,nica1252,,,,,,,,,,,Central America,
-CCMCniue1239,Niuean,-19.06,-169.86,niue1239,,,,,,,,,,,Southwestern Pacific,
-CCMCnort2641,Northern Kurdish,37.0,43.0,nort2641,,,,,,,,,,,Western Asia,
-CCMCnort2646,Northern Pashto,34.0,71.33,nort2646,,,,,,,,,,,Indian Subcontinent,
-CCMCnort2697,North Azerbaijani,40.97768,46.4737,nort2697,,,,,,,,,,,Caucasus,
-CCMCnort2745,Northern Yukaghir,70.498,157.853,nort2745,,,,,,,,,,,Siberia,
-CCMCnort2775,Northwest Gbaya,5.9503,15.2569,nort2775,,,,,,,,,,,West-Central Tropical Africa,
-CCMCnort2795,Zimbabwean Ndebele,-20.2513,27.4096,nort2795,,,,,,,,,,,South Tropical Africa,
-CCMCnort2935,Northern Amami-Oshima,28.20991,129.45346,nort2935,,,,,,,,,,,Eastern Asia,
-CCMCnort2943,North Alaskan Inupiatun,69.582,-143.77,nort2943,,,,,,,,,,,Subarctic America,
-CCMCnort2961,Northwestern Ojibwa,51.6192,-87.7862,nort2961,,,,,,,,,,,Eastern Canada,
-CCMCnort2972,Northern Emberá,7.12761,-77.574,nort2972,,,,,,,,,,,Western South America,
-CCMCnort3139,Levantine Arabic,34.1709,36.0468,nort3139,,,,,,,,,,,Western Asia,
-CCMCnort3233,Northern Sotho,-23.136205,28.3879725,nort3233,,,,,,,,,,,Southern Africa,
-CCMCnorw1258,Norwegian,59.92,10.71,norw1258,,,,,,,,,,,Northern Europe,
-CCMCnsen1242,Nsenga,-15.3946,31.3544,nsen1242,,,,,,,,,,,South Tropical Africa,
-CCMCnubi1251,Nubian,17.908792074263246,29.90375360897506,nubi1251,,,,,,,,,,,Northeast Tropical Africa,
-CCMCnucl1235,Eastern Armenian,40.0,45.0,nucl1235,,,,,,,,,,,Caucasus,
-CCMCnucl1301,Turkish,39.8667,32.8667,nucl1301,,,,,,,,,,,Western Asia,
-CCMCnucl1302,Georgian,41.850397,43.78613,nucl1302,,,,,,,,,,,Caucasus,
-CCMCnucl1310,Burmese,20.7926,93.9665,nucl1310,,,,,,,,,,,Indo-China,
-CCMCnucl1347,Wolof,15.2534,-15.383,nucl1347,,,,,,,,,,,West Tropical Africa,
-CCMCnucl1643,Japanese,35.0,135.0,nucl1643,,,,,,,,,,,Eastern Asia,
-CCMCnucl1649,Southern-Coastal Tsimshian,52.59103,-128.544545,nucl1649,,,,,,,,,,,Western Canada,
-CCMCnucl1667,Central-Southern Aymara,-17.07085,-69.4221,nucl1667,,,,,,,,,,,Western South America,
-CCMCnuuc1236,Nuu-chah-nulth,49.67,-126.67,nuuc1236,,,,,,,,,,,Western Canada,
-CCMCnyan1308,Nyanja,-14.8047,32.8108,nyan1308,,,,,,,,,,,South Tropical Africa,
-CCMCnyan1315,Nyangatom,5.39809,35.6232,nyan1315,,,,,,,,,,,Northeast Tropical Africa,
-CCMCojib1241,Ojibwa,47.982994444444444,-85.85432777777777,ojib1241,,,,,,,,,,,Eastern Canada,
-CCMCokin1245,Okinoerabu-Tokunoshima,27.454820054000038,128.70069420700008,okin1245,,,,,,,,,,,Eastern Asia,
-CCMColoo1241,Olo,-3.2929,142.131,oloo1241,,,,,,,,,,,Papuasia,
-CCMConaa1245,Selk'nam,-54.0,-68.5,onaa1245,,,,,,,,,,,Southern South America,
-CCMConei1249,Oneida,43.438742,-75.708106,onei1249,,,,,,,,,,,Northeastern U.S.A.,
-CCMConon1246,Onondaga,42.92,-76.12,onon1246,,,,,,,,,,,Northeastern U.S.A.,
-CCMCosse1245,Ossetic,45.774514,41.921735999999996,osse1245,,,,,,,,,,,Caucasus,
-CCMCpaiw1248,Paiwan,22.3271,120.806,paiw1248,,,,,,,,,,,Eastern Asia,
-CCMCpala1344,Palauan,7.34138,134.476678,pala1344,,,,,,,,,,,Northwestern Pacific,
-CCMCpala1354,Palawanic,9.278849293123667,118.17409497063912,pala1354,,,,,,,,,,,Malesia,
-CCMCpali1279,Palikúr,3.63993,-51.6246,pali1279,,,,,,,,,,,Brazil,
-CCMCpara1319,Paraguay-Brazil Guarani,-25.043944999999997,-55.84623333333333,para1319,,,,,,,,,,,Southern South America,
-CCMCpari1256,Päri,5.09472,32.4822,pari1256,,,,,,,,,,,Northeast Tropical Africa,
-CCMCpash1269,Pashto,31.260933333333334,68.33016666666666,pash1269,,,,,,,,,,,Indian Subcontinent,
-CCMCpawn1254,Pawnee,36.2862,-96.8937,pawn1254,,,,,,,,,,,North-Central U.S.A.,
-CCMCphen1239,Phende,-5.64735,19.8275,phen1239,,,,,,,,,,,West-Central Tropical Africa,
-CCMCpiar1243,Piaroa,4.41805,-67.7574,piar1243,,,,,,,,,,,Northern South America,
-CCMCpieg1239,Piegan,49.0669,-113.109,pieg1239,,,,,,,,,,,Western Canada,
-CCMCpiem1238,Piemontese,45.4633,8.32366,piem1238,,,,,,,,,,,Southeastern Europe,
-CCMCpipi1250,Pipil,13.8931,-89.443,pipi1250,,,,,,,,,,,Central America,
-CCMCpitj1243,Pitjantjatjara,-26.9704,131.357,pitj1243,,,,,,,,,,,Australia,
-CCMCpoke1238,Poke,0.73538,23.8972,poke1238,,,,,,,,,,,West-Central Tropical Africa,
-CCMCpoli1260,Polish,51.8439,18.6255,poli1260,,,,,,,,,,,Middle Europe,
-CCMCport1283,Portuguese,39.91,-8.1,port1283,,,,,,,,,,,Southwestern Europe,
-CCMCpume1238,Pumé,7.10677,-67.5996,pume1238,,,,,,,,,,,Northern South America,
-CCMCpura1257,Purari,-7.59133,145.036,pura1257,,,,,,,,,,,Papuasia,
-CCMCpure1242,Purepecha,19.2467,-101.631,pure1242,,,,,,,,,,,Mexico,
-CCMCpuyu1239,Puyuma,22.643,120.996,puyu1239,,,,,,,,,,,Eastern Asia,
-CCMCqawa1238,Qawasqar,-49.303195,-74.707536,qawa1238,,,,,,,,,,,Southern South America,
-CCMCquec1382,Quechan,32.7859,-114.599,quec1382,,,,,,,,,,,Southwestern U.S.A.,
-CCMCraro1241,Southern Cook Island Maori,-21.23,-159.78,raro1241,,,,,,,,,,,South-Central Pacific,
-CCMCraro1242,Rarotonga,-21.23,-159.78,raro1242,,,,,,,,,,,South-Central Pacific,
-CCMCroma1327,Romanian,46.3913,24.2256,roma1327,,,,,,,,,,,Southeastern Europe,
-CCMCruka1240,Rukai,22.7738,120.844,ruka1240,,,,,,,,,,,Eastern Asia,
-CCMCruss1263,Russian,59.0,50.0,russ1263,,,,,,,,,,,Eastern Europe,
-CCMCruss1264,Russia Buriat,50.85331,105.5637,russ1264,,,,,,,,,,,Siberia,
-CCMCsaam1281,Saami,66.85222408924136,25.62257648920228,saam1281,,,,,,,,,,,Northern Europe,
-CCMCsain1246,Saint Lucian Creole French,15.3947,-61.3641,sain1246,,,,,,,,,,,Caribbean,
-CCMCsamo1305,Samoan,-13.92,-171.83,samo1305,,,,,,,,,,,Southwestern Pacific,
-CCMCsana1297,San Andres Creole English,12.55352,-81.70425,sana1297,,,,,,,,,,,Caribbean,
-CCMCsanb1242,San Blas Kuna,9.15686,-78.3075,sanb1242,,,,,,,,,,,Central America,
-CCMCsara1340,Saramaccan,4.54729,-54.0238,sara1340,,,,,,,,,,,Northern South America,
-CCMCsard1257,Sardinian,39.773300000000006,9.06946,sard1257,,,,,,,,,,,Southwestern Europe,
-CCMCscot1245,Scottish Gaelic,56.7574,-5.24366,scot1245,,,,,,,,,,,Northern Europe,
-CCMCselk1253,Selkup,59.9409,82.3004,selk1253,,,,,,,,,,,Siberia,
-CCMCsene1264,Seneca,42.56,-77.53,sene1264,,,,,,,,,,,Northeastern U.S.A.,
-CCMCseng1277,Senga,-11.3297,33.3738,seng1277,,,,,,,,,,,South Tropical Africa,
-CCMCsepi1257,Sepik,-4.051444534429929,142.19487024611354,sepi1257,,,,,,,,,,,Papuasia,
-CCMCsera1259,Saraiki,29.5534,71.906,sera1259,,,,,,,,,,,Indian Subcontinent,
-CCMCserb1264,Serbian Standard,44.3238,21.9192,serb1264,,,,,,,,,,,Southeastern Europe,
-CCMCseri1257,Seri,28.9877,-112.384,seri1257,,,,,,,,,,,Mexico,
-CCMCship1254,Shipibo-Conibo,-7.17105,-74.8219,ship1254,,,,,,,,,,,Western South America,
-CCMCshua1257,Shuar,-3.45136,-78.1892,shua1257,,,,,,,,,,,Western South America,
-CCMCshug1248,Shughni,37.5018,71.7925,shug1248,,,,,,,,,,,Middle Asia,
-CCMCsici1248,Sicilian,37.5735,14.0414,sici1248,,,,,,,,,,,Southeastern Europe,
-CCMCsiks1238,Siksika,49.0669,-113.109,siks1238,,,,,,,,,,,Western Canada,
-CCMCslov1268,Slovenian,46.2543,14.7766,slov1268,,,,,,,,,,,Southeastern Europe,
-CCMCslov1269,Slovak,48.545705,18.78479,slov1269,,,,,,,,,,,Middle Europe,
-CCMCsoga1242,Soga,0.40456,33.3942,soga1242,,,,,,,,,,,East Tropical Africa,
-CCMCsora1254,Sora,19.1213,84.19,sora1254,,,,,,,,,,,Indian Subcontinent,
-CCMCsout2674,South Saami,62.8801,13.7006,sout2674,,,,,,,,,,,Northern Europe,
-CCMCsout2807,Southern Sotho,-28.78,27.89,sout2807,,,,,,,,,,,Southern Africa,
-CCMCsout2866,South Marquesan,-9.75663,-138.979,sout2866,,,,,,,,,,,South-Central Pacific,
-CCMCsout2922,Southern Land Dayak,0.07422495268254246,110.45539075831692,sout2922,,,,,,,,,,,Malesia,
-CCMCsout2991,South Bolivian Quechua,-20.9201,-66.3331,sout2991,,,,,,,,,,,Western South America,
-CCMCsout2996,Southern Aymara,-17.1417,-70.3442,sout2996,,,,,,,,,,,Western South America,
-CCMCsout3184,Southwestern Tai,18.874401235217768,100.49567614976544,sout3184,,,,,,,,,,,Indo-China,
-CCMCstan1288,Spanish,40.4414,-1.11788,stan1288,,,,,,,,,,,Southwestern Europe,
-CCMCstan1290,French,48.0,2.0,stan1290,,,,,,,,,,,Southwestern Europe,
-CCMCstan1293,English,53.0,-1.0,stan1293,,,,,,,,,,,Northern Europe,
-CCMCstan1295,German,48.649,12.4676,stan1295,,,,,,,,,,,Middle Europe,
-CCMCswat1243,Swati,-26.0,31.5,swat1243,,,,,,,,,,,Southern Africa,
-CCMCswed1254,Swedish,59.800634,17.389526,swed1254,,,,,,,,,,,Northern Europe,
-CCMCtaji1245,Tajik,38.8213,68.5549,taji1245,,,,,,,,,,,Middle Asia,
-CCMCtama1365,Tamasheq,14.2038,-2.41269,tama1365,,,,,,,,,,,West Tropical Africa,
-CCMCtami1289,Tamil,10.520219,78.825989,tami1289,,,,,,,,,,,Indian Subcontinent,
-CCMCtang1348,Tangga,-4.08824,153.611,tang1348,,,,,,,,,,,Papuasia,
-CCMCtawa1289,Tawang Monpa,27.7686,92.1838,tawa1289,,,,,,,,,,,Indian Subcontinent,
-CCMCtebu1238,Tebu,16.8892,15.311699999999998,tebu1238,,,,,,,,,,,West Tropical Africa,
-CCMCtelu1262,Telugu,16.4529,78.7024,telu1262,,,,,,,,,,,Indian Subcontinent,
-CCMCtemi1246,Temiar,4.974,101.438,temi1246,,,,,,,,,,,Malesia,
-CCMCtewa1260,Rio Grande Tewa,35.9053,-106.124,tewa1260,,,,,,,,,,,South-Central U.S.A.,
-CCMCtiko1237,Tikopia,-12.2766,168.822,tiko1237,,,,,,,,,,,Southwestern Pacific,
-CCMCtlin1245,Tlingit,59.4447,-135.29,tlin1245,,,,,,,,,,,Subarctic America,
-CCMCtoda1252,Toda,11.4184,77.0168,toda1252,,,,,,,,,,,Indian Subcontinent,
-CCMCtoho1245,Tohono O'odham,31.7973,-111.995,toho1245,,,,,,,,,,,Southwestern U.S.A.,
-CCMCtokp1240,Tok Pisin,-9.41971,147.303,tokp1240,,,,,,,,,,,Papuasia,
-CCMCtong1325,Tonga (Tonga Islands),-21.17,-175.25,tong1325,,,,,,,,,,,Southwestern Pacific,
-CCMCtosk1239,Northern Tosk Albanian,41.0,20.0,tosk1239,,,,,,,,,,,Southeastern Europe,
-CCMCtrio1238,Trió,2.53616,-55.7599,trio1238,,,,,,,,,,,Northern South America,
-CCMCtshw1239,Tshwa Khoe,-20.91055,26.489800000000002,tshw1239,,,,,,,,,,,Southern Africa,
-CCMCtson1249,Tsonga,-23.5754,31.8105,tson1249,,,,,,,,,,,South Tropical Africa,
-CCMCtswa1253,Tswana,-24.368,24.7587,tswa1253,,,,,,,,,,,Southern Africa,
-CCMCtuar1240,Tuareg,18.814533333333337,5.988933333333334,tuar1240,,,,,,,,,,,West Tropical Africa,
-CCMCtumb1250,Tumbuka,-11.3297,33.3738,tumb1250,,,,,,,,,,,South Tropical Africa,
-CCMCtuni1259,Tunisian Arabic,33.7966,9.56156,tuni1259,,,,,,,,,,,Northern Africa,
-CCMCtupi1276,Tupi-Guarani,-9.294022959828155,-55.41746433039854,tupi1276,,,,,,,,,,,Brazil,
-CCMCturk1304,Turkmen,37.08719,59.17574,turk1304,,,,,,,,,,,Western Asia,
-CCMCtuvi1240,Tuvinian,51.7,94.36667,tuvi1240,,,,,,,,,,,Siberia,
-CCMCtzot1259,Tzotzil,16.6362,-92.7388,tzot1259,,,,,,,,,,,Mexico,
-CCMCudmu1245,Udmurt,56.12921,52.63548,udmu1245,,,,,,,,,,,Eastern Europe,
-CCMCuigh1240,Uighur,43.88,87.38,uigh1240,,,,,,,,,,,China,
-CCMCulit1238,Ulithian,9.961388,139.603611,ulit1238,,,,,,,,,,,Northwestern Pacific,
-CCMCulst1241,Ulster English,53.0,-1.0,ulst1241,,,,,,,,,,,Northern Europe,
-CCMCvani1248,Vanimo,-2.68501,141.258,vani1248,,,,,,,,,,,Papuasia,
-CCMCvend1245,Venda,-22.188,29.9523,vend1245,,,,,,,,,,,South Tropical Africa,
-CCMCviet1252,Vietnamese,20.681188,105.774071,viet1252,,,,,,,,,,,Indo-China,
-CCMCvinc1243,Vincentian Creole English,13.2436,-61.1963,vinc1243,,,,,,,,,,,Caribbean,
-CCMCwadj1254,Wadjiginy,-12.8596,130.737,wadj1254,,,,,,,,,,,Australia,
-CCMCwala1272,Waladja,-15.697411,127.616813,wala1272,,,,,,,,,,,Australia,
-CCMCwall1255,Walloon,50.2235,5.14509,wall1255,,,,,,,,,,,Middle Europe,
-CCMCwaor1240,Waorani,-1.12312,-76.683,waor1240,,,,,,,,,,,Western South America,
-CCMCwara1303,Warao,7.50851,-59.3528,wara1303,,,,,,,,,,,Northern South America,
-CCMCwarl1254,Warlpiri,-20.1008,131.05,warl1254,,,,,,,,,,,Australia,
-CCMCwaya1269,Wayana,2.77537,-54.4429,waya1269,,,,,,,,,,,Northern South America,
-CCMCwayu1243,Wayuu,11.395566,-72.199791,wayu1243,,,,,,,,,,,Western South America,
-CCMCwest2386,Western Panjabi,30.0948,75.3474,west2386,,,,,,,,,,,Indian Subcontinent,
-CCMCwest2458,West Central Banda,6.81435,24.1012,west2458,,,,,,,,,,,West-Central Tropical Africa,
-CCMCwest2618,Western Canadian Inuktitut,64.3486,-96.148,west2618,,,,,,,,,,,Subarctic America,
-CCMCwest2721,West Central Oromo,8.81391,36.7365,west2721,,,,,,,,,,,Northeast Tropical Africa,
-CCMCwest2854,Western Caribbean Creole,12.44,-83.74,west2854,,,,,,,,,,,Central America,
-CCMCwich1262,Wichí Lhamtés Nocten,-21.988,-63.5971,wich1262,,,,,,,,,,,Western South America,
-CCMCwika1238,Wikalkan,-13.6835,141.557,wika1238,,,,,,,,,,,Australia,
-CCMCwole1240,Woleaian,7.37957,143.916,wole1240,,,,,,,,,,,Northwestern Pacific,
-CCMCworo1258,Worora,-15.82429,125.155876,woro1258,,,,,,,,,,,Australia,
-CCMCworr1236,Worrorran,-15.649060492687456,125.79293781884348,worr1236,,,,,,,,,,,Australia,
-CCMCworr1237,Worrorra,-15.612781,124.881218,worr1237,,,,,,,,,,,Australia,
-CCMCwuna1249,Wunambal,-14.8347,125.72,wuna1249,,,,,,,,,,,Australia,
-CCMCwuzl1236,Wuzlam,10.955,14.1378,wuzl1236,,,,,,,,,,,West-Central Tropical Africa,
-CCMCxakr1238,Xakriabá,-19.0,-47.0,xakr1238,,,,,,,,,,,Brazil,
-CCMCxhos1239,Xhosa,-31.0389,28.0769,xhos1239,,,,,,,,,,,Southern Africa,
-CCMCyaka1272,Yaka (Central African Republic),3.6515,17.2713,yaka1272,,,,,,,,,,,West-Central Tropical Africa,
-CCMCyaku1245,Sakha,61.69744,133.98031,yaku1245,,,,,,,,,,,Siberia,
-CCMCyami1254,Yami,22.055,121.544,yami1254,,,,,,,,,,,Eastern Asia,
-CCMCyano1262,Yanomám,2.48999,-62.8522,yano1262,,,,,,,,,,,Brazil,
-CCMCyaoo1241,Yao,-13.6119,35.2387,yaoo1241,,,,,,,,,,,South Tropical Africa,
-CCMCyape1248,Yapese,9.55811,138.125,yape1248,,,,,,,,,,,Northwestern Pacific,
-CCMCyaqu1251,Yaqui,29.9446,-110.681,yaqu1251,,,,,,,,,,,Mexico,
-CCMCyawa1261,Yawalapití,-12.5104,-53.4236,yawa1261,,,,,,,,,,,Brazil,
-CCMCyuca1254,Yucatec Maya,18.7757,-88.9567,yuca1254,,,,,,,,,,,Mexico,
-CCMCyuul1239,Yuulngu,-12.584506111111109,135.12851972222222,yuul1239,,,,,,,,,,,Australia,
-CCMCzezu1238,Zezuru,-17.20849,29.75725,zezu1238,,,,,,,,,,,South Tropical Africa,
-CCMCzulu1248,Zulu,-28.9,30.2,zulu1248,,,,,,,,,,,Southern Africa,
-CCMCzuni1245,Zuni,35.0056,-108.782,zuni1245,,,,,,,,,,,South-Central U.S.A.,
+CCMCabkh1244,Abkhaz,43.056218,41.159115,abkh1244,,,,,,,,,,,Caucasus,Caucasus
+CCMCacol1236,Acoli,3.57738,32.5147,acol1236,,,,,,,,,,,East Tropical Africa,Eastern Africa
+CCMCafar1241,Afar,12.2281,41.8083,afar1241,,,,,,,,,,,Northeast Tropical Africa,Eastern Africa
+CCMCainu1240,Hokkaido Ainu,43.633654,142.46167,ainu1240,,,,,,,,,,,Eastern Asia,East Asia
+CCMCakan1250,Akan,6.34756,-1.33254,akan1250,,,,,,,,,,,West Tropical Africa,Western Africa
+CCMCalba1267,Albanian,40.99952028050002,20.791828239250023,alba1267,,,,,,,,,,,Southeastern Europe,Southeastern Europe
+CCMCalur1250,Alur,2.36213,31.0016,alur1250,,,,,,,,,,,East Tropical Africa,Eastern Africa
+CCMCaman1265,Amanab,-3.51516,141.178,aman1265,,,,,,,,,,,Papuasia,Melanesia
+CCMCamer1254,Latin American Spanish,40.4414,-1.11788,amer1254,,,,,,,,,,,Southwestern Europe,Northwestern South America
+CCMCamha1245,Amharic,11.708182,39.543456,amha1245,,,,,,,,,,,Northeast Tropical Africa,Eastern Africa
+CCMCamis1246,Amis,23.0917,121.348,amis1246,,,,,,,,,,,Eastern Asia,East Asia
+CCMCanga1288,Angami Naga,25.6841,93.8668,anga1288,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMCanta1255,Antankarana Malagasy,-13.2164,49.2402,anta1255,,,,,,,,,,,Western Indian Ocean,Southern Africa
+CCMCanti1245,Antigua and Barbuda Creole English,17.068263,-61.821863,anti1245,,,,,,,,,,,Caribbean,Caribbean
+CCMCarab1395,Arabic,28.54883209863231,33.89900988007798,arab1395,,,,,,,,,,,Western Asia,Northern Africa
+CCMCarhu1242,Arhuaco,10.7018,-73.6363,arhu1242,,,,,,,,,,,Western South America,Northwestern South America
+CCMCarom1237,Aromanian,40.616,21.2,arom1237,,,,,,,,,,,Southeastern Europe,Southeastern Europe
+CCMCatay1247,Atayal,24.5209,121.388,atay1247,,,,,,,,,,,Eastern Asia,East Asia
+CCMCatla1275,Atlas Berber,32.47515,-4.926258333333333,atla1275,,,,,,,,,,,Northern Africa,Northern Africa
+CCMCaush1241,Aushi,-11.6295,29.0168,aush1241,,,,,,,,,,,South Tropical Africa,Central Africa
+CCMCayac1239,Ayacucho Quechua,-13.84714,-74.32246,ayac1239,,,,,,,,,,,Western South America,Central Andes
+CCMCbaeg1237,Baeggu,-8.49014,160.771,baeg1237,,,,,,,,,,,Papuasia,Melanesia
+CCMCbafu1246,Bafut,6.14153,10.1194,bafu1246,,,,,,,,,,,West-Central Tropical Africa,Western Africa
+CCMCbaic1239,Baic,26.383899999999997,99.82655,baic1239,,,,,,,,,,,China,East Asia
+CCMCbali1278,Balinese,-8.35714,115.075,bali1278,,,,,,,,,,,Malesia,Southeast Asia
+CCMCbamb1264,Bambenzele,3.6515,17.2713,bamb1264,,,,,,,,,,,West-Central Tropical Africa,Central Africa
+CCMCbant1295,Bantu A-B10-B20-B30,2.0415592232505344,11.906256146109017,bant1295,,,,,,,,,,,West-Central Tropical Africa,Central Africa
+CCMCbard1255,Bardi,-16.6274,122.906,bard1255,,,,,,,,,,,Australia,Australia
+CCMCbasq1248,Basque,43.2787,-1.31622,basq1248,,,,,,,,,,,Southwestern Europe,Western Europe
+CCMCbava1246,Bavarian,47.9232,13.246,bava1246,,,,,,,,,,,Middle Europe,Central Europe
+CCMCbeja1238,Beja,17.2436,36.6666,beja1238,,,,,,,,,,,Northeast Tropical Africa,Northern Africa
+CCMCbemb1257,Bemba (Zambia),-10.6122,29.2993,bemb1257,,,,,,,,,,,South Tropical Africa,Southern Africa
+CCMCbeng1280,Bengali,24.0,90.0,beng1280,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMCbhoj1244,Bhojpuri,26.458455,84.817115,bhoj1244,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMCbila1255,Bila,1.16839,28.7626,bila1255,,,,,,,,,,,West-Central Tropical Africa,Central Africa
+CCMCboro1282,Bororo,-16.6029,-55.2004,boro1282,,,,,,,,,,,Brazil,Amazon and Orinoco
+CCMCbosn1245,Bosnian Standard,43.859,17.046,bosn1245,,,,,,,,,,,Southeastern Europe,Southeastern Europe
+CCMCbukh1238,Bukharic,41.0,64.0,bukh1238,,,,,,,,,,,Middle Asia,Central Asia
+CCMCbulg1262,Bulgarian,43.3646,25.047,bulg1262,,,,,,,,,,,Southeastern Europe,Southeastern Europe
+CCMCbulu1251,Bulu (Cameroon),3.16141,11.6365,bulu1251,,,,,,,,,,,West-Central Tropical Africa,Western Africa
+CCMCbunu1267,Bunun,23.4116,121.025,bunu1267,,,,,,,,,,,Eastern Asia,East Asia
+CCMCburu1296,Burushaski,36.2161,74.8236,buru1296,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMCcala1254,Calabrian Albanian,38.911,16.7164,cala1254,,,,,,,,,,,Southeastern Europe,Southern Europe
+CCMCcayu1261,Cayuga,42.41,-76.5969,cayu1261,,,,,,,,,,,Northeastern U.S.A.,Eastern Woodlands
+CCMCcent1972,Central Kurdish,35.6539,45.8077,cent1972,,,,,,,,,,,Western Asia,Middle East
+CCMCcent2018,Central-Eastern Niger Fulfulde,15.0907,8.43261,cent2018,,,,,,,,,,,West Tropical Africa,Western Africa
+CCMCcent2126,Central Okinawan,26.14854,127.7816,cent2126,,,,,,,,,,,Eastern Asia,East Asia
+CCMCcent2127,Central Alaskan Yupik,60.3062,-161.486,cent2127,,,,,,,,,,,Subarctic America,Arctic and Subarctic
+CCMCcent2131,Central Tarahumara,27.5648,-107.154,cent2131,,,,,,,,,,,Mexico,Northern Mexico
+CCMCcent2142,Central Aymara,-17.0,-68.5,cent2142,,,,,,,,,,,Western South America,Central Andes
+CCMCcent2194,Central Moroccan Berber,32.7415,-2.40872,cent2194,,,,,,,,,,,Northern Africa,Northern Africa
+CCMCcent2225,Central Sudanic,4.293051212935224,27.949921102438214,cent2225,,,,,,,,,,,West-Central Tropical Africa,Central Africa
+CCMCchac1249,Cha'palaa,0.71489,-79.0508,chac1249,,,,,,,,,,,Western South America,Northwestern South America
+CCMCchad1249,Chadian Arabic,14.67,13.5,chad1249,,,,,,,,,,,West Tropical Africa,Central Africa
+CCMCchak1266,Chakma,23.00148,92.339,chak1266,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMCcher1273,Cherokee,35.4664,-83.163,cher1273,,,,,,,,,,,Southeastern U.S.A.,Eastern Woodlands
+CCMCchey1247,Cheyenne,45.5321,-106.659,chey1247,,,,,,,,,,,Northwestern U.S.A.,Plains and Plateau
+CCMCchig1238,Chiga,-1.04387,29.9122,chig1238,,,,,,,,,,,East Tropical Africa,Eastern Africa
+CCMCchip1241,Chippewa,47.347,-94.2738,chip1241,,,,,,,,,,,North-Central U.S.A.,Arctic and Subarctic
+CCMCchoc1280,Chocoan,6.733067083333334,-76.96017,choc1280,,,,,,,,,,,Western South America,Northwestern South America
+CCMCchok1245,Chokwe,-9.66082,21.3992,chok1245,,,,,,,,,,,South Tropical Africa,Southern Africa
+CCMCchuk1273,Chukchi,68.6436,170.045,chuk1273,,,,,,,,,,,Russian Far East,North Asia
+CCMCchuu1238,Chuukese,7.346993,151.598607,chuu1238,,,,,,,,,,,Northwestern Pacific,Micronesia
+CCMCcoca1259,Cocama-Cocamilla,-4.5,-74.0,coca1259,,,,,,,,,,,Western South America,Central Andes
+CCMCcogu1240,Cogui,10.9485,-73.8043,cogu1240,,,,,,,,,,,Western South America,Northwestern South America
+CCMCcree1272,Cree,53.343979208660386,-91.26566754642054,cree1272,,,,,,,,,,,Eastern Canada,Plains and Plateau
+CCMCcroa1245,Croatian Standard,45.555,15.982,croa1245,,,,,,,,,,,Southeastern Europe,Southeastern Europe
+CCMCcusc1236,Cusco Quechua,-14.0853,-71.7663,cusc1236,,,,,,,,,,,Western South America,Central Andes
+CCMCczec1258,Czech,49.873398,15.10437,czec1258,,,,,,,,,,,Middle Europe,Central Europe
+CCMCdako1258,Dakota,45.86,-96.58,dako1258,,,,,,,,,,,North-Central U.S.A.,Plains and Plateau
+CCMCdama1270,Damara,-25.0747,17.9767,dama1270,,,,,,,,,,,Southern Africa,Southern Africa
+CCMCdani1285,Danish,54.8655,9.36284,dani1285,,,,,,,,,,,Northern Europe,Scandinavia
+CCMCdari1249,Dari,31.0405,67.3593,dari1249,,,,,,,,,,,Indian Subcontinent,Central Asia
+CCMCdhuw1249,Dhuwal,-12.7825,136.008,dhuw1249,,,,,,,,,,,Australia,Australia
+CCMCdizi1235,Dizin,6.1405,35.5763,dizi1235,,,,,,,,,,,Northeast Tropical Africa,Eastern Africa
+CCMCdjap1238,Djapu,-12.879764,136.417978,djap1238,,,,,,,,,,,Australia,Australia
+CCMCdomi1242,Dominican Spanish,40.4414,-1.11788,domi1242,,,,,,,,,,,Southwestern Europe,Caribbean
+CCMCdrav1251,Dravidian,22.000694930590036,79.45764897410312,drav1251,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMCduma1252,Duma (Karanga),-17.20849,29.75725,duma1252,,,,,,,,,,,South Tropical Africa,Southern Africa
+CCMCduma1253,Duma,-0.91927,13.0046,duma1253,,,,,,,,,,,West-Central Tropical Africa,Western Africa
+CCMCdutc1256,Dutch,52.0,5.0,dutc1256,,,,,,,,,,,Middle Europe,Western Europe
+CCMCeast2534,Eastern Canadian Inuktitut,62.1735,-75.6139,east2534,,,,,,,,,,,Eastern Canada,Arctic and Subarctic
+CCMCecua1248,Ecuadorian Quechua A,-1.02793,-78.50203333333334,ecua1248,,,,,,,,,,,Western South America,Northwestern South America
+CCMCeipo1242,Eipomek,-4.33691,140.045,eipo1242,,,,,,,,,,,Papuasia,Southeast Asia
+CCMCelna1235,El Nayar Cora,22.4099,-104.467,elna1235,,,,,,,,,,,Mexico,Northern Mexico
+CCMCemil1243,Emiliano-Romagnolo,44.294250000000005,11.649149999999999,emil1243,,,,,,,,,,,Southeastern Europe,Southern Europe
+CCMCesto1258,Estonian,58.55,25.82,esto1258,,,,,,,,,,,Eastern Europe,Eastern Europe
+CCMCeven1259,Evenki,61.972,94.689,even1259,,,,,,,,,,,Siberia,North Asia
+CCMCewee1241,Ewe,6.46061,0.814975,ewee1241,,,,,,,,,,,West Tropical Africa,Western Africa
+CCMCfang1246,Fang (Equatorial Guinea),1.723965,11.61454,fang1246,,,,,,,,,,,West-Central Tropical Africa,Central Africa
+CCMCfata1245,Fataleka,-8.59041,160.861,fata1245,,,,,,,,,,,Papuasia,Melanesia
+CCMCfiji1243,Fijian,-18.0,178.33,fiji1243,,,,,,,,,,,Southwestern Pacific,Polynesia
+CCMCfinn1318,Finnish,64.7628,25.5577,finn1318,,,,,,,,,,,Northern Europe,Scandinavia
+CCMCgali1262,Galibi Carib,5.83772,-56.8323,gali1262,,,,,,,,,,,Northern South America,Amazon and Orinoco
+CCMCgand1255,Ganda,0.66884,32.15153,gand1255,,,,,,,,,,,East Tropical Africa,Eastern Africa
+CCMCgari1256,Garifuna,15.3529,-86.9091,gari1256,,,,,,,,,,,Central America,Maya Area
+CCMCgaro1247,Garo,25.2954,90.462,garo1247,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMCgheg1238,Gheg Albanian,42.317,21.3837,gheg1238,,,,,,,,,,,Southeastern Europe,Southeastern Europe
+CCMCgilb1244,Gilbertese,0.179,173.64,gilb1244,,,,,,,,,,,Southwestern Pacific,Micronesia
+CCMCgily1242,Amur Nivkh,52.59,140.681,gily1242,,,,,,,,,,,Russian Far East,North Asia
+CCMCgour1247,Gourara,29.1107,0.01992,gour1247,,,,,,,,,,,Northern Africa,Northern Africa
+CCMCgree1280,Greenlandic Inuit,67.4948555,-45.2475555,gree1280,,,,,,,,,,,Subarctic America,Arctic and Subarctic
+CCMCgren1247,Grenadian Creole English,12.0067,-61.6989,gren1247,,,,,,,,,,,Caribbean,Caribbean
+CCMCguad1242,Guadeloupe-Martinique Creole French,16.304875,-61.405914,guad1242,,,,,,,,,,,Caribbean,Caribbean
+CCMCguan1269,Kotiria,1.07554,-69.5705,guan1269,,,,,,,,,,,Brazil,Northwestern South America
+CCMCguer1241,Central Guerrero Nahuatl,17.8583,-99.0023,guer1241,,,,,,,,,,,Mexico,Maya Area
+CCMCgugu1254,Gugubera,-15.4296,141.635,gugu1254,,,,,,,,,,,Australia,Australia
+CCMCguja1252,Gujarati,22.687,71.0962,guja1252,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMCgulf1241,Gulf Arabic,30.17,47.5,gulf1241,,,,,,,,,,,Western Asia,Middle East
+CCMCgunw1252,Bininj Kun-Wok,-12.3398,133.358,gunw1252,,,,,,,,,,,Australia,Australia
+CCMChadr1236,Hadrami Arabic,15.4468,48.6524,hadr1236,,,,,,,,,,,Arabian Peninsula,Middle East
+CCMChaid1248,Haida,53.63306599999999,-132.0436285,haid1248,,,,,,,,,,,Western Canada,Northwest Coast and California
+CCMChait1244,Haitian,18.795135,-72.136115,hait1244,,,,,,,,,,,Caribbean,Caribbean
+CCMChanu1241,Hanunoo,12.4159,121.221,hanu1241,,,,,,,,,,,Malesia,Southeast Asia
+CCMChass1238,Hassaniyya,18.29,-14.11,hass1238,,,,,,,,,,,West Tropical Africa,Northern Africa
+CCMChava1248,Havasupai-Walapai-Yavapai,35.6302,-113.385,hava1248,,,,,,,,,,,Southwestern U.S.A.,Southwest and Basin
+CCMChawa1245,Hawaiian,19.6297,-155.43,hawa1245,,,,,,,,,,,North-Central Pacific,Polynesia
+CCMChere1253,Herero,-21.0231,20.5655,here1253,,,,,,,,,,,Southern Africa,Southern Africa
+CCMChima1250,Himachali,31.411180998795718,77.13756627624385,hima1250,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMChind1269,Hindi,25.0,77.0,hind1269,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMChopi1249,Hopi,35.7653,-110.535,hopi1249,,,,,,,,,,,Southwestern U.S.A.,Southwest and Basin
+CCMChuau1238,Huautla Mazatec,18.2556,-96.724,huau1238,,,,,,,,,,,Mexico,Central Mexico
+CCMChuic1243,Huichol,21.954,-104.062,huic1243,,,,,,,,,,,Mexico,Central Mexico
+CCMChung1274,Hungarian,46.9068585714,19.6555271429,hung1274,,,,,,,,,,,Middle Europe,Central Europe
+CCMCicel1247,Icelandic,63.4837,-19.0212,icel1247,,,,,,,,,,,Northern Europe,Scandinavia
+CCMCindo1316,Standard Indonesian,-7.33458,109.716,indo1316,,,,,,,,,,,Malesia,Southeast Asia
+CCMCindo1317,Indonesian Bajau,-3.68664,122.253,indo1317,,,,,,,,,,,Malesia,Southeast Asia
+CCMCiris1255,Irish English,53.0,-1.0,iris1255,,,,,,,,,,,Northern Europe,British Isles
+CCMCital1282,Italian,43.0464,12.6489,ital1282,,,,,,,,,,,Southeastern Europe,Western Europe
+CCMCiumi1238,Iu Mien,20.83,101.17,iumi1238,,,,,,,,,,,Indo-China,Southeast Asia
+CCMCiwai1244,Iwaidja,-11.3379,132.453,iwai1244,,,,,,,,,,,Australia,Australia
+CCMCixil1251,Ixil,15.4569,-90.8935,ixil1251,,,,,,,,,,,Central America,Maya Area
+CCMCjama1262,Jamaican Creole English,18.13,-77.2612,jama1262,,,,,,,,,,,Caribbean,Caribbean
+CCMCjamb1236,Jambi Malay,-2.6469,103.13,jamb1236,,,,,,,,,,,Malesia,Southeast Asia
+CCMCjaun1243,Jaunsari,30.5587,77.9084,jaun1243,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMCjava1254,Javanese,-7.001,109.287,java1254,,,,,,,,,,,Malesia,Southeast Asia
+CCMCjeha1242,Jehai,5.63695,101.541,jeha1242,,,,,,,,,,,Malesia,Southeast Asia
+CCMCjiva1245,Chicham,-4.361705000000001,-77.8664,jiva1245,,,,,,,,,,,Western South America,Central Andes
+CCMCjola1263,Jola-Fonyi,12.75752,-15.7354766667,jola1263,,,,,,,,,,,West Tropical Africa,Western Africa
+CCMCjuho1239,South-Eastern Ju,-19.688,20.7673,juho1239,,,,,,,,,,,Southern Africa,Southern Africa
+CCMCjuru1256,Jurúna,-10.9354,-53.3472,juru1256,,,,,,,,,,,Brazil,Amazon and Orinoco
+CCMCkabi1260,Kabikabi,-25.44486229,153.1539929,kabi1260,,,,,,,,,,,Australia,Australia
+CCMCkach1277,Kachchi,23.83,69.0,kach1277,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMCkain1272,Kaingang,-27.7671,-52.5394,kain1272,,,,,,,,,,,Brazil,Eastern South America
+CCMCkala1377,Kala Lagaw Ya,-10.6748,142.196,kala1377,,,,,,,,,,,Australia,Melanesia
+CCMCkali1308,Kalispel-Pend d'Oreille,47.5825,-114.19,kali1308,,,,,,,,,,,Northwestern U.S.A.,Plains and Plateau
+CCMCkama1373,Kamayurá,-12.2661,-53.4651,kama1373,,,,,,,,,,,Brazil,Amazon and Orinoco
+CCMCkamb1320,Central-East Sumbanese,-9.646905555555557,119.76885,kamb1320,,,,,,,,,,,Malesia,Southeast Asia
+CCMCkana1291,Katukína-Kanamarí,-6.45399,-68.7678,kana1291,,,,,,,,,,,Brazil,Amazon and Orinoco
+CCMCkara1467,Kara-Kalpak,39.98005,63.32233,kara1467,,,,,,,,,,,Middle Asia,Central Asia
+CCMCkara1483,Karamojong,2.45157,34.2761,kara1483,,,,,,,,,,,East Tropical Africa,Eastern Africa
+CCMCkara1484,Karanga,13.1748,20.6354,kara1484,,,,,,,,,,,Northeast Tropical Africa,Southern Africa
+CCMCkara1500,Karajá,-11.1881,-50.3492,kara1500,,,,,,,,,,,Brazil,Amazon and Orinoco
+CCMCkash1274,Kashubian,54.2996,18.6163,kash1274,,,,,,,,,,,Middle Europe,Central Europe
+CCMCkaul1240,Kaulong,-6.08192,149.696,kaul1240,,,,,,,,,,,Papuasia,Melanesia
+CCMCkaya1330,Kayapó,-7.77352,-51.6737,kaya1330,,,,,,,,,,,Brazil,Amazon and Orinoco
+CCMCkaza1248,Kazakh,51.17,71.454,kaza1248,,,,,,,,,,,Middle Asia,Central Asia
+CCMCkekc1242,Kekchí,15.3788,-89.2452,kekc1242,,,,,,,,,,,Central America,Maya Area
+CCMCkela1258,Kelabit,3.31783,115.428,kela1258,,,,,,,,,,,Malesia,Southeast Asia
+CCMCkema1243,Kemak,-9.00299,125.159,kema1243,,,,,,,,,,,Malesia,Southeast Asia
+CCMCkemi1239,Kemi Saami,67.093,27.537,kemi1239,,,,,,,,,,,Northern Europe,Scandinavia
+CCMCkere1287,Keresan,35.24745,-106.98499999999999,kere1287,,,,,,,,,,,South-Central U.S.A.,Southwest and Basin
+CCMCkiny1244,Kinyarwanda,-1.56771,29.6441,kiny1244,,,,,,,,,,,West-Central Tropical Africa,Central Africa
+CCMCkiow1264,Kiowa Apache,34.9077,-98.2461,kiow1264,,,,,,,,,,,North-Central U.S.A.,Plains and Plateau
+CCMCkiow1266,Kiowa,34.9403,-98.9042,kiow1266,,,,,,,,,,,North-Central U.S.A.,Southwest and Basin
+CCMCkirg1245,Kirghiz,42.0,74.0,kirg1245,,,,,,,,,,,Middle Asia,Central Asia
+CCMCkohi1250,Kohin,-1.43973,111.905,kohi1250,,,,,,,,,,,Malesia,Southeast Asia
+CCMCkomi1269,Komi-Permyak,59.6602,54.7959,komi1269,,,,,,,,,,,Eastern Europe,Eastern Europe
+CCMCkore1280,Korean,37.54,126.98,kore1280,,,,,,,,,,,Eastern Asia,East Asia
+CCMCkory1246,Koryak,63.8977,166.695,kory1246,,,,,,,,,,,Russian Far East,North Asia
+CCMCkota1263,Kota (India),11.4978,76.9387,kota1263,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMCkoyo1242,Koyo,-0.69688,15.7508,koyo1242,,,,,,,,,,,West-Central Tropical Africa,Central Africa
+CCMCkrah1246,Krahô,-8.01172,-47.5774,krah1246,,,,,,,,,,,Brazil,Eastern South America
+CCMCkuik1246,Kuikúro-Kalapálo,-12.3035,-53.2261,kuik1246,,,,,,,,,,,Brazil,Amazon and Orinoco
+CCMCkuma1280,Kuman,-5.90586,144.977,kuma1280,,,,,,,,,,,Papuasia,Melanesia
+CCMCkups1238,Kupsabiny,1.33197,34.5991,kups1238,,,,,,,,,,,East Tropical Africa,Eastern Africa
+CCMCkurd1259,Kurdish,35.18386666666667,45.13510000000001,kurd1259,,,,,,,,,,,Western Asia,Middle East
+CCMCkwak1269,Kwak'wala,50.9269,-127.308,kwak1269,,,,,,,,,,,Western Canada,Northwest Coast and California
+CCMCkwen1247,Kwenyii,-22.2689,166.705,kwen1247,,,,,,,,,,,Southwestern Pacific,Melanesia
+CCMCladi1251,Ladino,41.205,28.6632,ladi1251,,,,,,,,,,,Southeastern Europe,Maya Area
+CCMClako1247,Lakota,46.3699,-103.95,lako1247,,,,,,,,,,,North-Central U.S.A.,Plains and Plateau
+CCMClala1264,Lala-Bisa,-12.945,30.2297,lala1264,,,,,,,,,,,South Tropical Africa,Southern Africa
+CCMClaoo1244,Lao,19.0,102.46,laoo1244,,,,,,,,,,,Indo-China,Southeast Asia
+CCMClard1243,Lardil,-16.56152,139.4343,lard1243,,,,,,,,,,,Australia,Australia
+CCMClatv1249,Latvian,56.826108,24.309118,latv1249,,,,,,,,,,,Eastern Europe,Eastern Europe
+CCMCless1242,Lesser Antillean French Creole,16.25,-61.57,less1242,,,,,,,,,,,Caribbean,Caribbean
+CCMClioo1240,Li'o,-8.68615,121.832,lioo1240,,,,,,,,,,,Malesia,Southeast Asia
+CCMClith1251,Lithuanian,55.1429,23.9601,lith1251,,,,,,,,,,,Eastern Europe,Eastern Europe
+CCMClito1235,Litoka,2.69,19.24,lito1235,,,,,,,,,,,West-Central Tropical Africa,Central Africa
+CCMClowe1445,Lower Northern English,53.0,-1.0,lowe1445,,,,,,,,,,,Northern Europe,British Isles
+CCMClowg1239,Low German,52.675131666666665,10.368006666666666,lowg1239,,,,,,,,,,,Middle Europe,Central Europe
+CCMCloya1239,Loyalty Islands,-21.0166,167.261,loya1239,,,,,,,,,,,Southwestern Pacific,Melanesia
+CCMClozi1239,Lozi,-17.7052,24.7398,lozi1239,,,,,,,,,,,Southern Africa,Southern Africa
+CCMCluba1249,Luba-Lulua,-5.72717,22.4422,luba1249,,,,,,,,,,,West-Central Tropical Africa,Central Africa
+CCMClund1266,Lunda,-11.1793,23.8662,lund1266,,,,,,,,,,,South Tropical Africa,Southern Africa
+CCMCmace1250,Macedonian,41.5957,21.7932,mace1250,,,,,,,,,,,Southeastern Europe,Southeastern Europe
+CCMCmacu1259,Macushi,4.31861,-60.2209,macu1259,,,,,,,,,,,Brazil,Amazon and Orinoco
+CCMCmadi1260,Ma'di,3.62499,31.8471,madi1260,,,,,,,,,,,East Tropical Africa,Eastern Africa
+CCMCmagu1243,Maguindanao,6.9453,124.509,magu1243,,,,,,,,,,,Malesia,Southeast Asia
+CCMCmaha1287,Mahasu Pahari,31.0088,77.5317,maha1287,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMCmaha1309,Mahafaly-Antanalana Malagasy,-24.2,44.5,maha1309,,,,,,,,,,,Western Indian Ocean,Southern Africa
+CCMCmaka1311,Makasar,-5.65551,119.838,maka1311,,,,,,,,,,,Malesia,Southeast Asia
+CCMCmaku1246,Máku,3.969231,-64.235892,maku1246,,,,,,,,,,,Brazil,Amazon and Orinoco
+CCMCmala1464,Malayalam,9.59208,76.7651,mala1464,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMCmand1415,Mandarin Chinese,40.0209,116.228,mand1415,,,,,,,,,,,China,East Asia
+CCMCmang1405,Manggarai,-8.55748,120.329,mang1405,,,,,,,,,,,Malesia,Southeast Asia
+CCMCmaor1246,Maori,-38.2881,176.541,maor1246,,,,,,,,,,,New Zealand,Polynesia
+CCMCmapu1245,Mapudungun,-38.7392,-71.277,mapu1245,,,,,,,,,,,Southern South America,Southern South America
+CCMCmaqu1238,Ye'kwana,4.70705,-64.3877,maqu1238,,,,,,,,,,,Northern South America,Amazon and Orinoco
+CCMCmara1378,Marathi,17.9344,76.6665,mara1378,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMCmari1278,Mari,56.02535,47.48700000000001,mari1278,,,,,,,,,,,Eastern Europe,Eastern Europe
+CCMCmart1259,Martinique Creole French,14.6369,-61.0194,mart1259,,,,,,,,,,,Caribbean,Caribbean
+CCMCmasa1300,Masai,-3.1419,36.4573,masa1300,,,,,,,,,,,East Tropical Africa,Eastern Africa
+CCMCmaya1287,Mayan,17.423987813269193,-92.8442033793036,maya1287,,,,,,,,,,,Mexico,Maya Area
+CCMCmayo1264,Mayo,26.4522,-108.981,mayo1264,,,,,,,,,,,Mexico,Northern Mexico
+CCMCmaza1291,Mazanderani,36.241,52.3009,maza1291,,,,,,,,,,,Western Asia,Middle East
+CCMCmbuk1240,Mbukushu,-17.6827,22.5026,mbuk1240,,,,,,,,,,,South Tropical Africa,Southern Africa
+CCMCmeit1246,Meitei,24.4409,93.3426,meit1246,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMCmelp1238,Melpa,-5.62644,144.34,melp1238,,,,,,,,,,,Papuasia,Melanesia
+CCMCmeri1244,Meriam,-9.59575,143.773,meri1244,,,,,,,,,,,Papuasia,Australia
+CCMCmezq1235,Mezquital Otomi,20.2274,-99.5564,mezq1235,,,,,,,,,,,Mexico,Central Mexico
+CCMCmika1239,Mikasuki,31.5,-84.0,mika1239,,,,,,,,,,,Southeastern U.S.A.,Eastern Woodlands
+CCMCmikm1235,Mi'kmaq,46.0,-64.0,mikm1235,,,,,,,,,,,Eastern Canada,Eastern Woodlands
+CCMCmina1268,Minangkabau,-0.896,100.44,mina1268,,,,,,,,,,,Malesia,Southeast Asia
+CCMCmiri1266,Miriwung,-16.3596,128.889,miri1266,,,,,,,,,,,Australia,Australia
+CCMCmisk1235,Mískito,15.1576,-84.2942,misk1235,,,,,,,,,,,Central America,Central America
+CCMCmode1248,Modern Greek,38.36,23.13,mode1248,,,,,,,,,,,Southeastern Europe,Southeastern Europe
+CCMCmong1338,Mongo,-1.54228,20.4259,mong1338,,,,,,,,,,,West-Central Tropical Africa,Central Africa
+CCMCmuri1262,Muria,20.1903,80.79495,muri1262,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMCnama1264,Nama (Namibia),-25.0747,17.9767,nama1264,,,,,,,,,,,Southern Africa,Southern Africa
+CCMCnana1257,Nanai,48.43426,134.79726,nana1257,,,,,,,,,,,Russian Far East,North Asia
+CCMCnapo1241,Napoletano,39.2288,16.4225,napo1241,,,,,,,,,,,Southeastern Europe,Southern Europe
+CCMCnaro1249,Naro,-22.0939,20.7458,naro1249,,,,,,,,,,,Southern Africa,Southern Africa
+CCMCndon1254,Ndonga,-17.22,17.35,ndon1254,,,,,,,,,,,South Tropical Africa,Southern Africa
+CCMCnepa1254,Nepali,28.0,85.0,nepa1254,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMCngon1269,Tanzania-Mozambique Ngoni,-11.7794,37.4118,ngon1269,,,,,,,,,,,South Tropical Africa,Southern Africa
+CCMCnias1242,Nias,0.90691,97.4961,nias1242,,,,,,,,,,,Malesia,Southeast Asia
+CCMCnica1252,Nicaragua Creole English,12.4402,-83.7386,nica1252,,,,,,,,,,,Central America,Central America
+CCMCniue1239,Niuean,-19.06,-169.86,niue1239,,,,,,,,,,,Southwestern Pacific,Polynesia
+CCMCnort2641,Northern Kurdish,37.0,43.0,nort2641,,,,,,,,,,,Western Asia,Middle East
+CCMCnort2646,Northern Pashto,34.0,71.33,nort2646,,,,,,,,,,,Indian Subcontinent,Central Asia
+CCMCnort2697,North Azerbaijani,40.97768,46.4737,nort2697,,,,,,,,,,,Caucasus,Caucasus
+CCMCnort2745,Northern Yukaghir,70.498,157.853,nort2745,,,,,,,,,,,Siberia,North Asia
+CCMCnort2775,Northwest Gbaya,5.9503,15.2569,nort2775,,,,,,,,,,,West-Central Tropical Africa,Central Africa
+CCMCnort2795,Zimbabwean Ndebele,-20.2513,27.4096,nort2795,,,,,,,,,,,South Tropical Africa,Southern Africa
+CCMCnort2935,Northern Amami-Oshima,28.20991,129.45346,nort2935,,,,,,,,,,,Eastern Asia,East Asia
+CCMCnort2943,North Alaskan Inupiatun,69.582,-143.77,nort2943,,,,,,,,,,,Subarctic America,Arctic and Subarctic
+CCMCnort2961,Northwestern Ojibwa,51.6192,-87.7862,nort2961,,,,,,,,,,,Eastern Canada,Arctic and Subarctic
+CCMCnort2972,Northern Emberá,7.12761,-77.574,nort2972,,,,,,,,,,,Western South America,Central America
+CCMCnort3139,Levantine Arabic,34.1709,36.0468,nort3139,,,,,,,,,,,Western Asia,Middle East
+CCMCnort3233,Northern Sotho,-23.136205,28.3879725,nort3233,,,,,,,,,,,Southern Africa,Southern Africa
+CCMCnorw1258,Norwegian,59.92,10.71,norw1258,,,,,,,,,,,Northern Europe,Scandinavia
+CCMCnsen1242,Nsenga,-15.3946,31.3544,nsen1242,,,,,,,,,,,South Tropical Africa,Southern Africa
+CCMCnubi1251,Nubian,17.908792074263246,29.90375360897506,nubi1251,,,,,,,,,,,Northeast Tropical Africa,Northern Africa
+CCMCnucl1235,Eastern Armenian,40.0,45.0,nucl1235,,,,,,,,,,,Caucasus,Caucasus
+CCMCnucl1301,Turkish,39.8667,32.8667,nucl1301,,,,,,,,,,,Western Asia,Southeastern Europe
+CCMCnucl1302,Georgian,41.850397,43.78613,nucl1302,,,,,,,,,,,Caucasus,Caucasus
+CCMCnucl1310,Burmese,20.7926,93.9665,nucl1310,,,,,,,,,,,Indo-China,Southeast Asia
+CCMCnucl1347,Wolof,15.2534,-15.383,nucl1347,,,,,,,,,,,West Tropical Africa,Western Africa
+CCMCnucl1643,Japanese,35.0,135.0,nucl1643,,,,,,,,,,,Eastern Asia,East Asia
+CCMCnucl1649,Southern-Coastal Tsimshian,52.59103,-128.544545,nucl1649,,,,,,,,,,,Western Canada,Northwest Coast and California
+CCMCnucl1667,Central-Southern Aymara,-17.07085,-69.4221,nucl1667,,,,,,,,,,,Western South America,Central Andes
+CCMCnuuc1236,Nuu-chah-nulth,49.67,-126.67,nuuc1236,,,,,,,,,,,Western Canada,Northwest Coast and California
+CCMCnyan1308,Nyanja,-14.8047,32.8108,nyan1308,,,,,,,,,,,South Tropical Africa,Southern Africa
+CCMCnyan1315,Nyangatom,5.39809,35.6232,nyan1315,,,,,,,,,,,Northeast Tropical Africa,Eastern Africa
+CCMCojib1241,Ojibwa,47.982994444444444,-85.85432777777777,ojib1241,,,,,,,,,,,Eastern Canada,Arctic and Subarctic
+CCMCokin1245,Okinoerabu-Tokunoshima,27.454820054000038,128.70069420700008,okin1245,,,,,,,,,,,Eastern Asia,East Asia
+CCMColoo1241,Olo,-3.2929,142.131,oloo1241,,,,,,,,,,,Papuasia,Melanesia
+CCMConaa1245,Selk'nam,-54.0,-68.5,onaa1245,,,,,,,,,,,Southern South America,Southern South America
+CCMConei1249,Oneida,43.438742,-75.708106,onei1249,,,,,,,,,,,Northeastern U.S.A.,Eastern Woodlands
+CCMConon1246,Onondaga,42.92,-76.12,onon1246,,,,,,,,,,,Northeastern U.S.A.,Eastern Woodlands
+CCMCoriy1255,Odia,21.0,85.0,oriy1255,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMCosse1245,Ossetic,45.774514,41.921735999999996,osse1245,,,,,,,,,,,Caucasus,Caucasus
+CCMCpaiw1248,Paiwan,22.3271,120.806,paiw1248,,,,,,,,,,,Eastern Asia,East Asia
+CCMCpala1344,Palauan,7.34138,134.476678,pala1344,,,,,,,,,,,Northwestern Pacific,Micronesia
+CCMCpala1354,Palawanic,9.278849293123667,118.17409497063912,pala1354,,,,,,,,,,,Malesia,Southeast Asia
+CCMCpali1279,Palikúr,3.63993,-51.6246,pali1279,,,,,,,,,,,Brazil,Eastern South America
+CCMCpara1319,Paraguay-Brazil Guarani,-25.043944999999997,-55.84623333333333,para1319,,,,,,,,,,,Southern South America,Eastern South America
+CCMCpari1256,Päri,5.09472,32.4822,pari1256,,,,,,,,,,,Northeast Tropical Africa,Eastern Africa
+CCMCpash1269,Pashto,31.260933333333334,68.33016666666666,pash1269,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMCpawn1254,Pawnee,36.2862,-96.8937,pawn1254,,,,,,,,,,,North-Central U.S.A.,Plains and Plateau
+CCMCphen1239,Phende,-5.64735,19.8275,phen1239,,,,,,,,,,,West-Central Tropical Africa,Central Africa
+CCMCpiar1243,Piaroa,4.41805,-67.7574,piar1243,,,,,,,,,,,Northern South America,Northwestern South America
+CCMCpieg1239,Piegan,49.0669,-113.109,pieg1239,,,,,,,,,,,Western Canada,Plains and Plateau
+CCMCpiem1238,Piemontese,45.4633,8.32366,piem1238,,,,,,,,,,,Southeastern Europe,Southern Europe
+CCMCpipi1250,Pipil,13.8931,-89.443,pipi1250,,,,,,,,,,,Central America,Central America
+CCMCpitj1243,Pitjantjatjara,-26.9704,131.357,pitj1243,,,,,,,,,,,Australia,Australia
+CCMCpoke1238,Poke,0.73538,23.8972,poke1238,,,,,,,,,,,West-Central Tropical Africa,Central Africa
+CCMCpoli1260,Polish,51.8439,18.6255,poli1260,,,,,,,,,,,Middle Europe,Central Europe
+CCMCport1283,Portuguese,39.91,-8.1,port1283,,,,,,,,,,,Southwestern Europe,Eastern South America
+CCMCpume1238,Pumé,7.10677,-67.5996,pume1238,,,,,,,,,,,Northern South America,Amazon and Orinoco
+CCMCpura1257,Purari,-7.59133,145.036,pura1257,,,,,,,,,,,Papuasia,Melanesia
+CCMCpure1242,Purepecha,19.2467,-101.631,pure1242,,,,,,,,,,,Mexico,Central Mexico
+CCMCpuyu1239,Puyuma,22.643,120.996,puyu1239,,,,,,,,,,,Eastern Asia,East Asia
+CCMCqawa1238,Qawasqar,-49.303195,-74.707536,qawa1238,,,,,,,,,,,Southern South America,Southern South America
+CCMCquec1382,Quechan,32.7859,-114.599,quec1382,,,,,,,,,,,Southwestern U.S.A.,Southwest and Basin
+CCMCraro1241,Southern Cook Island Maori,-21.23,-159.78,raro1241,,,,,,,,,,,South-Central Pacific,Polynesia
+CCMCraro1242,Rarotonga,-21.23,-159.78,raro1242,,,,,,,,,,,South-Central Pacific,Polynesia
+CCMCroma1327,Romanian,46.3913,24.2256,roma1327,,,,,,,,,,,Southeastern Europe,Southeastern Europe
+CCMCruka1240,Rukai,22.7738,120.844,ruka1240,,,,,,,,,,,Eastern Asia,East Asia
+CCMCruss1263,Russian,59.0,50.0,russ1263,,,,,,,,,,,Eastern Europe,Eastern Europe
+CCMCruss1264,Russia Buriat,50.85331,105.5637,russ1264,,,,,,,,,,,Siberia,North Asia
+CCMCsaam1281,Saami,66.85222408924136,25.62257648920228,saam1281,,,,,,,,,,,Northern Europe,Scandinavia
+CCMCsain1246,Saint Lucian Creole French,15.3947,-61.3641,sain1246,,,,,,,,,,,Caribbean,Caribbean
+CCMCsamo1305,Samoan,-13.92,-171.83,samo1305,,,,,,,,,,,Southwestern Pacific,Polynesia
+CCMCsana1297,San Andres Creole English,12.55352,-81.70425,sana1297,,,,,,,,,,,Caribbean,Central America
+CCMCsanb1242,San Blas Kuna,9.15686,-78.3075,sanb1242,,,,,,,,,,,Central America,Central America
+CCMCsara1340,Saramaccan,4.54729,-54.0238,sara1340,,,,,,,,,,,Northern South America,Amazon and Orinoco
+CCMCsard1257,Sardinian,39.773300000000006,9.06946,sard1257,,,,,,,,,,,Southwestern Europe,Southern Europe
+CCMCscot1245,Scottish Gaelic,56.7574,-5.24366,scot1245,,,,,,,,,,,Northern Europe,British Isles
+CCMCselk1253,Selkup,59.9409,82.3004,selk1253,,,,,,,,,,,Siberia,North Asia
+CCMCsene1264,Seneca,42.56,-77.53,sene1264,,,,,,,,,,,Northeastern U.S.A.,Eastern Woodlands
+CCMCseng1277,Senga,-11.3297,33.3738,seng1277,,,,,,,,,,,South Tropical Africa,Southern Africa
+CCMCsepi1257,Sepik,-4.051444534429929,142.19487024611354,sepi1257,,,,,,,,,,,Papuasia,Melanesia
+CCMCsera1259,Saraiki,29.5534,71.906,sera1259,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMCserb1264,Serbian Standard,44.3238,21.9192,serb1264,,,,,,,,,,,Southeastern Europe,Southeastern Europe
+CCMCseri1257,Seri,28.9877,-112.384,seri1257,,,,,,,,,,,Mexico,Northern Mexico
+CCMCship1254,Shipibo-Conibo,-7.17105,-74.8219,ship1254,,,,,,,,,,,Western South America,Central Andes
+CCMCshua1257,Shuar,-3.45136,-78.1892,shua1257,,,,,,,,,,,Western South America,Northwestern South America
+CCMCshug1248,Shughni,37.5018,71.7925,shug1248,,,,,,,,,,,Middle Asia,Central Asia
+CCMCsici1248,Sicilian,37.5735,14.0414,sici1248,,,,,,,,,,,Southeastern Europe,Southern Europe
+CCMCsiks1238,Siksika,49.0669,-113.109,siks1238,,,,,,,,,,,Western Canada,Plains and Plateau
+CCMCslov1268,Slovenian,46.2543,14.7766,slov1268,,,,,,,,,,,Southeastern Europe,Southeastern Europe
+CCMCslov1269,Slovak,48.545705,18.78479,slov1269,,,,,,,,,,,Middle Europe,Central Europe
+CCMCsoga1242,Soga,0.40456,33.3942,soga1242,,,,,,,,,,,East Tropical Africa,Eastern Africa
+CCMCsora1254,Sora,19.1213,84.19,sora1254,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMCsout2674,South Saami,62.8801,13.7006,sout2674,,,,,,,,,,,Northern Europe,Scandinavia
+CCMCsout2807,Southern Sotho,-28.78,27.89,sout2807,,,,,,,,,,,Southern Africa,Southern Africa
+CCMCsout2866,South Marquesan,-9.75663,-138.979,sout2866,,,,,,,,,,,South-Central Pacific,Polynesia
+CCMCsout2922,Southern Land Dayak,0.07422495268254246,110.45539075831692,sout2922,,,,,,,,,,,Malesia,Southeast Asia
+CCMCsout2991,South Bolivian Quechua,-20.9201,-66.3331,sout2991,,,,,,,,,,,Western South America,Central Andes
+CCMCsout2996,Southern Aymara,-17.1417,-70.3442,sout2996,,,,,,,,,,,Western South America,Southern South America
+CCMCsout3184,Southwestern Tai,18.874401235217768,100.49567614976544,sout3184,,,,,,,,,,,Indo-China,Southeast Asia
+CCMCstan1288,Spanish,40.4414,-1.11788,stan1288,,,,,,,,,,,Southwestern Europe,Northwestern South America
+CCMCstan1290,French,48.0,2.0,stan1290,,,,,,,,,,,Southwestern Europe,Western Europe
+CCMCstan1293,English,53.0,-1.0,stan1293,,,,,,,,,,,Northern Europe,British Isles
+CCMCstan1295,German,48.649,12.4676,stan1295,,,,,,,,,,,Middle Europe,Central Europe
+CCMCswat1243,Swati,-26.0,31.5,swat1243,,,,,,,,,,,Southern Africa,Southern Africa
+CCMCswed1254,Swedish,59.800634,17.389526,swed1254,,,,,,,,,,,Northern Europe,Scandinavia
+CCMCtaji1245,Tajik,38.8213,68.5549,taji1245,,,,,,,,,,,Middle Asia,Central Asia
+CCMCtama1365,Tamasheq,14.2038,-2.41269,tama1365,,,,,,,,,,,West Tropical Africa,Northern Africa
+CCMCtami1289,Tamil,10.520219,78.825989,tami1289,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMCtang1348,Tangga,-4.08824,153.611,tang1348,,,,,,,,,,,Papuasia,Melanesia
+CCMCtawa1289,Tawang Monpa,27.7686,92.1838,tawa1289,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMCtebu1238,Tebu,16.8892,15.311699999999998,tebu1238,,,,,,,,,,,West Tropical Africa,Central Africa
+CCMCtelu1262,Telugu,16.4529,78.7024,telu1262,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMCtemi1246,Temiar,4.974,101.438,temi1246,,,,,,,,,,,Malesia,Southeast Asia
+CCMCtewa1260,Rio Grande Tewa,35.9053,-106.124,tewa1260,,,,,,,,,,,South-Central U.S.A.,Southwest and Basin
+CCMCtiko1237,Tikopia,-12.2766,168.822,tiko1237,,,,,,,,,,,Southwestern Pacific,Polynesia
+CCMCtlin1245,Tlingit,59.4447,-135.29,tlin1245,,,,,,,,,,,Subarctic America,Northwest Coast and California
+CCMCtoda1252,Toda,11.4184,77.0168,toda1252,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMCtoho1245,Tohono O'odham,31.7973,-111.995,toho1245,,,,,,,,,,,Southwestern U.S.A.,Southwest and Basin
+CCMCtokp1240,Tok Pisin,-9.41971,147.303,tokp1240,,,,,,,,,,,Papuasia,Melanesia
+CCMCtong1325,Tonga (Tonga Islands),-21.17,-175.25,tong1325,,,,,,,,,,,Southwestern Pacific,Polynesia
+CCMCtosk1239,Northern Tosk Albanian,41.0,20.0,tosk1239,,,,,,,,,,,Southeastern Europe,Southeastern Europe
+CCMCtrio1238,Trió,2.53616,-55.7599,trio1238,,,,,,,,,,,Northern South America,Eastern South America
+CCMCtshw1239,Tshwa Khoe,-20.91055,26.489800000000002,tshw1239,,,,,,,,,,,Southern Africa,Southern Africa
+CCMCtson1249,Tsonga,-23.5754,31.8105,tson1249,,,,,,,,,,,South Tropical Africa,Southern Africa
+CCMCtswa1253,Tswana,-24.368,24.7587,tswa1253,,,,,,,,,,,Southern Africa,Southern Africa
+CCMCtuar1240,Tuareg,18.814533333333337,5.988933333333334,tuar1240,,,,,,,,,,,West Tropical Africa,Northern Africa
+CCMCtumb1250,Tumbuka,-11.3297,33.3738,tumb1250,,,,,,,,,,,South Tropical Africa,Southern Africa
+CCMCtuni1259,Tunisian Arabic,33.7966,9.56156,tuni1259,,,,,,,,,,,Northern Africa,Northern Africa
+CCMCtupi1276,Tupi-Guarani,-9.294022959828155,-55.41746433039854,tupi1276,,,,,,,,,,,Brazil,Eastern South America
+CCMCturk1304,Turkmen,37.08719,59.17574,turk1304,,,,,,,,,,,Western Asia,Middle East
+CCMCtuvi1240,Tuvinian,51.7,94.36667,tuvi1240,,,,,,,,,,,Siberia,Central Asia
+CCMCtzot1259,Tzotzil,16.6362,-92.7388,tzot1259,,,,,,,,,,,Mexico,Maya Area
+CCMCudmu1245,Udmurt,56.12921,52.63548,udmu1245,,,,,,,,,,,Eastern Europe,Eastern Europe
+CCMCuigh1240,Uighur,43.88,87.38,uigh1240,,,,,,,,,,,China,Central Asia
+CCMCulit1238,Ulithian,9.961388,139.603611,ulit1238,,,,,,,,,,,Northwestern Pacific,Micronesia
+CCMCulst1241,Ulster English,53.0,-1.0,ulst1241,,,,,,,,,,,Northern Europe,British Isles
+CCMCvani1248,Vanimo,-2.68501,141.258,vani1248,,,,,,,,,,,Papuasia,Melanesia
+CCMCvend1245,Venda,-22.188,29.9523,vend1245,,,,,,,,,,,South Tropical Africa,Southern Africa
+CCMCviet1252,Vietnamese,20.681188,105.774071,viet1252,,,,,,,,,,,Indo-China,Southeast Asia
+CCMCvinc1243,Vincentian Creole English,13.2436,-61.1963,vinc1243,,,,,,,,,,,Caribbean,Central America
+CCMCwadj1254,Wadjiginy,-12.8596,130.737,wadj1254,,,,,,,,,,,Australia,Australia
+CCMCwala1272,Waladja,-15.697411,127.616813,wala1272,,,,,,,,,,,Australia,Australia
+CCMCwall1255,Walloon,50.2235,5.14509,wall1255,,,,,,,,,,,Middle Europe,Western Europe
+CCMCwaor1240,Waorani,-1.12312,-76.683,waor1240,,,,,,,,,,,Western South America,Northwestern South America
+CCMCwara1303,Warao,7.50851,-59.3528,wara1303,,,,,,,,,,,Northern South America,Amazon and Orinoco
+CCMCwarl1254,Warlpiri,-20.1008,131.05,warl1254,,,,,,,,,,,Australia,Australia
+CCMCwaya1269,Wayana,2.77537,-54.4429,waya1269,,,,,,,,,,,Northern South America,Eastern South America
+CCMCwayu1243,Wayuu,11.395566,-72.199791,wayu1243,,,,,,,,,,,Western South America,Northwestern South America
+CCMCwest2386,Western Panjabi,30.0948,75.3474,west2386,,,,,,,,,,,Indian Subcontinent,South Asia
+CCMCwest2458,West Central Banda,6.81435,24.1012,west2458,,,,,,,,,,,West-Central Tropical Africa,Central Africa
+CCMCwest2618,Western Canadian Inuktitut,64.3486,-96.148,west2618,,,,,,,,,,,Subarctic America,Arctic and Subarctic
+CCMCwest2721,West Central Oromo,8.81391,36.7365,west2721,,,,,,,,,,,Northeast Tropical Africa,Central Africa
+CCMCwest2854,Western Caribbean Creole,12.44,-83.74,west2854,,,,,,,,,,,Central America,Central America
+CCMCwich1262,Wichí Lhamtés Nocten,-21.988,-63.5971,wich1262,,,,,,,,,,,Western South America,Southern South America
+CCMCwika1238,Wikalkan,-13.6835,141.557,wika1238,,,,,,,,,,,Australia,Australia
+CCMCwole1240,Woleaian,7.37957,143.916,wole1240,,,,,,,,,,,Northwestern Pacific,Micronesia
+CCMCworo1258,Worora,-15.82429,125.155876,woro1258,,,,,,,,,,,Australia,Australia
+CCMCworr1236,Worrorran,-15.649060492687456,125.79293781884348,worr1236,,,,,,,,,,,Australia,Australia
+CCMCworr1237,Worrorra,-15.612781,124.881218,worr1237,,,,,,,,,,,Australia,Australia
+CCMCwuna1249,Wunambal,-14.8347,125.72,wuna1249,,,,,,,,,,,Australia,Australia
+CCMCwuzl1236,Wuzlam,10.955,14.1378,wuzl1236,,,,,,,,,,,West-Central Tropical Africa,Western Africa
+CCMCxakr1238,Xakriabá,-19.0,-47.0,xakr1238,,,,,,,,,,,Brazil,Eastern South America
+CCMCxhos1239,Xhosa,-31.0389,28.0769,xhos1239,,,,,,,,,,,Southern Africa,Southern Africa
+CCMCyaka1272,Yaka (Central African Republic),3.6515,17.2713,yaka1272,,,,,,,,,,,West-Central Tropical Africa,Central Africa
+CCMCyaku1245,Sakha,61.69744,133.98031,yaku1245,,,,,,,,,,,Siberia,North Asia
+CCMCyami1254,Yami,22.055,121.544,yami1254,,,,,,,,,,,Eastern Asia,East Asia
+CCMCyano1262,Yanomám,2.48999,-62.8522,yano1262,,,,,,,,,,,Brazil,Amazon and Orinoco
+CCMCyaoo1241,Yao,-13.6119,35.2387,yaoo1241,,,,,,,,,,,South Tropical Africa,Southern Africa
+CCMCyape1248,Yapese,9.55811,138.125,yape1248,,,,,,,,,,,Northwestern Pacific,Micronesia
+CCMCyaqu1251,Yaqui,29.9446,-110.681,yaqu1251,,,,,,,,,,,Mexico,Northern Mexico
+CCMCyawa1261,Yawalapití,-12.5104,-53.4236,yawa1261,,,,,,,,,,,Brazil,Amazon and Orinoco
+CCMCyuca1254,Yucatec Maya,18.7757,-88.9567,yuca1254,,,,,,,,,,,Mexico,Maya Area
+CCMCyuul1239,Yuulngu,-12.584506111111109,135.12851972222222,yuul1239,,,,,,,,,,,Australia,Australia
+CCMCzezu1238,Zezuru,-17.20849,29.75725,zezu1238,,,,,,,,,,,South Tropical Africa,Southern Africa
+CCMCzulu1248,Zulu,-28.9,30.2,zulu1248,,,,,,,,,,,Southern Africa,Southern Africa
+CCMCzuni1245,Zuni,35.0056,-108.782,zuni1245,,,,,,,,,,,South-Central U.S.A.,Southwest and Basin
