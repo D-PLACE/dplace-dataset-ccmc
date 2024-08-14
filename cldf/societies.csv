@@ -13,7 +13,7 @@ CCMCamis1246,Amis,23.0917,121.348,amis1246,,,,,,,,,,,Eastern Asia,East Asia
 CCMCanga1288,Angami Naga,25.6841,93.8668,anga1288,,,,,,,,,,,Indian Subcontinent,South Asia
 CCMCanta1255,Antankarana Malagasy,-13.2164,49.2402,anta1255,,,,,,,,,,,Western Indian Ocean,Southern Africa
 CCMCanti1245,Antigua and Barbuda Creole English,17.068263,-61.821863,anti1245,,,,,,,,,,,Caribbean,Caribbean
-CCMCarab1395,Arabic,28.54883209863231,33.89900988007798,arab1395,,,,,,,,,,,Western Asia,Northern Africa
+CCMCarab1395,Arabic,28.507551830840796,33.4868100331096,arab1395,,,,,,,,,,,Western Asia,Northern Africa
 CCMCarhu1242,Arhuaco,10.7018,-73.6363,arhu1242,,,,,,,,,,,Western South America,Northwestern South America
 CCMCarom1237,Aromanian,40.616,21.2,arom1237,,,,,,,,,,,Southeastern Europe,Southeastern Europe
 CCMCatay1247,Atayal,24.5209,121.388,atay1247,,,,,,,,,,,Eastern Asia,East Asia
@@ -136,7 +136,7 @@ CCMCjamb1236,Jambi Malay,-2.6469,103.13,jamb1236,,,,,,,,,,,Malesia,Southeast Asi
 CCMCjaun1243,Jaunsari,30.5587,77.9084,jaun1243,,,,,,,,,,,Indian Subcontinent,South Asia
 CCMCjava1254,Javanese,-7.001,109.287,java1254,,,,,,,,,,,Malesia,Southeast Asia
 CCMCjeha1242,Jehai,5.63695,101.541,jeha1242,,,,,,,,,,,Malesia,Southeast Asia
-CCMCjiva1245,Chicham,-4.361705000000001,-77.8664,jiva1245,,,,,,,,,,,Western South America,Central Andes
+CCMCjiva1245,Chicham,-4.2871412499999995,-77.79803749999999,jiva1245,,,,,,,,,,,Western South America,Central Andes
 CCMCjola1263,Jola-Fonyi,12.75752,-15.7354766667,jola1263,,,,,,,,,,,West Tropical Africa,Western Africa
 CCMCjuho1239,South-Eastern Ju,-19.688,20.7673,juho1239,,,,,,,,,,,Southern Africa,Southern Africa
 CCMCjuru1256,Jurúna,-10.9354,-53.3472,juru1256,,,,,,,,,,,Brazil,Amazon and Orinoco
@@ -252,7 +252,7 @@ CCMCnort3139,Levantine Arabic,34.1709,36.0468,nort3139,,,,,,,,,,,Western Asia,Mi
 CCMCnort3233,Northern Sotho,-23.136205,28.3879725,nort3233,,,,,,,,,,,Southern Africa,Southern Africa
 CCMCnorw1258,Norwegian,59.92,10.71,norw1258,,,,,,,,,,,Northern Europe,Scandinavia
 CCMCnsen1242,Nsenga,-15.3946,31.3544,nsen1242,,,,,,,,,,,South Tropical Africa,Southern Africa
-CCMCnubi1251,Nubian,17.908792074263246,29.90375360897506,nubi1251,,,,,,,,,,,Northeast Tropical Africa,Northern Africa
+CCMCnubi1251,Nubian,16.34286500615588,29.126707595234738,nubi1251,,,,,,,,,,,Northeast Tropical Africa,Northern Africa
 CCMCnucl1235,Eastern Armenian,40.0,45.0,nucl1235,,,,,,,,,,,Caucasus,Caucasus
 CCMCnucl1301,Turkish,39.8667,32.8667,nucl1301,,,,,,,,,,,Western Asia,Southeastern Europe
 CCMCnucl1302,Georgian,41.850397,43.78613,nucl1302,,,,,,,,,,,Caucasus,Caucasus
@@ -331,7 +331,7 @@ CCMCsout2866,South Marquesan,-9.75663,-138.979,sout2866,,,,,,,,,,,South-Central 
 CCMCsout2922,Southern Land Dayak,0.07422495268254246,110.45539075831692,sout2922,,,,,,,,,,,Malesia,Southeast Asia
 CCMCsout2991,South Bolivian Quechua,-20.9201,-66.3331,sout2991,,,,,,,,,,,Western South America,Central Andes
 CCMCsout2996,Southern Aymara,-17.1417,-70.3442,sout2996,,,,,,,,,,,Western South America,Southern South America
-CCMCsout3184,Southwestern Tai,18.874401235217768,100.49567614976544,sout3184,,,,,,,,,,,Indo-China,Southeast Asia
+CCMCsout3184,Southwestern Tai,18.06248191048901,102.32684699422616,sout3184,,,,,,,,,,,Indo-China,Southeast Asia
 CCMCstan1288,Spanish,40.4414,-1.11788,stan1288,,,,,,,,,,,Southwestern Europe,Northwestern South America
 CCMCstan1290,French,48.0,2.0,stan1290,,,,,,,,,,,Southwestern Europe,Western Europe
 CCMCstan1293,English,53.0,-1.0,stan1293,,,,,,,,,,,Northern Europe,British Isles

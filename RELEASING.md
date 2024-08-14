@@ -5,7 +5,7 @@ cldfbench download cldfbench_ccmc.py
 ```
 
 ```shell
-cldfbench makecldf cldfbench_ccmc.py --with-zenodo --with-cldfreadme --glottolog-version v4.8
+cldfbench makecldf cldfbench_ccmc.py --with-zenodo --with-cldfreadme --glottolog-version v5.0
 pytest
 ```
 
