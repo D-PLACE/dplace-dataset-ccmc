@@ -1,6 +1,11 @@
 # Changes
 
 
+## [v3.2]
+
+Dataset re-created using Glottolog v5.2 as reference.
+
+
 ## [v3.1]
 
 Dataset re-created using Glottolog v5.0 as reference.

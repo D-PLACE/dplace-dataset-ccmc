@@ -28,6 +28,7 @@ git status
 git tag
 ```
 
+Adapt CHANGELOG.md.
 Add, commit and push all changes.
 
 ```shell
