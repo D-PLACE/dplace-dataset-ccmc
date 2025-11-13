@@ -5,7 +5,7 @@ cldfbench download cldfbench_ccmc.py
 ```
 
 ```shell
-cldfbench makecldf cldfbench_ccmc.py --with-zenodo --with-cldfreadme --glottolog-version v5.0
+cldfbench makecldf cldfbench_ccmc.py --with-zenodo --with-cldfreadme --glottolog-version v5.2
 pytest
 ```
 
@@ -19,4 +19,17 @@ cldferd --format compact.svg cldf > erd.svg
 
 ```shell
 cldfbench readme cldfbench_ccmc.py
+cldfbench zenodo --communities dplace cldfbench_ccmc.py
+dplace check cldfbench_ccmc.py
+```
+
+```shell
+git status
+git tag
+```
+
+Add, commit and push all changes.
+
+```shell
+dplace release cldfbench_carneiro4.py vX.Y
 ```
